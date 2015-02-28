@@ -1,0 +1,4014 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "18027",
+"files": {
+	"\/_asset\/Christopher_Styles_Logo_Isolated_w-text.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 310586,
+		"inputAbbreviatedPath": "\/_asset\/Christopher_Styles_Logo_Isolated_w-text.png",
+		"outputAbbreviatedPath": "\/_asset\/Christopher_Styles_Logo_Isolated_w-text.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/christopherStyles 13_2_13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.70249e+07,
+		"inputAbbreviatedPath": "\/_asset\/christopherStyles 13_2_13.jpg",
+		"outputAbbreviatedPath": "\/_asset\/christopherStyles 13_2_13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/client\/slideshow\/DSC_0668.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.17152e+06,
+		"inputAbbreviatedPath": "\/_asset\/design\/client\/slideshow\/DSC_0668.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/client\/slideshow\/DSC_0668.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/client\/slideshow\/DSC_0683.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.88462e+06,
+		"inputAbbreviatedPath": "\/_asset\/design\/client\/slideshow\/DSC_0683.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/client\/slideshow\/DSC_0683.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/client\/slideshow\/DSC_0684.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.48243e+06,
+		"inputAbbreviatedPath": "\/_asset\/design\/client\/slideshow\/DSC_0684.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/client\/slideshow\/DSC_0684.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/397017E5-70A1-4E03-9879-D2FCA27CBAFC\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14223,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/397017E5-70A1-4E03-9879-D2FCA27CBAFC\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/397017E5-70A1-4E03-9879-D2FCA27CBAFC\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3EFA835B-25D8-45C1-8EA7-569061A1B85C\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15103,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3EFA835B-25D8-45C1-8EA7-569061A1B85C\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3EFA835B-25D8-45C1-8EA7-569061A1B85C\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3F56DBE7-ADB4-46A3-B065-DBB72982E8A0\/assets\/D34C00A822A1EE8CCC7C072B0B0FA350.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24676,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3F56DBE7-ADB4-46A3-B065-DBB72982E8A0\/assets\/D34C00A822A1EE8CCC7C072B0B0FA350.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3F56DBE7-ADB4-46A3-B065-DBB72982E8A0\/assets\/D34C00A822A1EE8CCC7C072B0B0FA350.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3F56DBE7-ADB4-46A3-B065-DBB72982E8A0\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12554,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3F56DBE7-ADB4-46A3-B065-DBB72982E8A0\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/3F56DBE7-ADB4-46A3-B065-DBB72982E8A0\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/44F6339D-7208-4478-B86C-54F3EA520817\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11581,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/44F6339D-7208-4478-B86C-54F3EA520817\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/44F6339D-7208-4478-B86C-54F3EA520817\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/69AA5F2E-68EB-477C-961A-20637E965D70\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13531,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/69AA5F2E-68EB-477C-961A-20637E965D70\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/69AA5F2E-68EB-477C-961A-20637E965D70\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/75EB2F0F-3CAA-4557-9E42-1110CFC2E631\/assets\/DB4D409153CCDE0396F49495B30497C8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86930,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/75EB2F0F-3CAA-4557-9E42-1110CFC2E631\/assets\/DB4D409153CCDE0396F49495B30497C8.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/75EB2F0F-3CAA-4557-9E42-1110CFC2E631\/assets\/DB4D409153CCDE0396F49495B30497C8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/75EB2F0F-3CAA-4557-9E42-1110CFC2E631\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14624,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/75EB2F0F-3CAA-4557-9E42-1110CFC2E631\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/75EB2F0F-3CAA-4557-9E42-1110CFC2E631\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/035D5DCC933712BDA044CF5E930DB27E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146718,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/035D5DCC933712BDA044CF5E930DB27E.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/035D5DCC933712BDA044CF5E930DB27E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/035FBF05FA6C3182184F23CB93C54C7B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6652,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/035FBF05FA6C3182184F23CB93C54C7B.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/035FBF05FA6C3182184F23CB93C54C7B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/7DA7D020AA5F47BC0F6B3E0330F5321D.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90200,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/7DA7D020AA5F47BC0F6B3E0330F5321D.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/assets\/7DA7D020AA5F47BC0F6B3E0330F5321D.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15114,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/858C5B88-C6EF-4965-9DAD-BE8C74DC6D5E\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/8CE14695-6ABE-4F97-8223-6F4EC450DD55\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14414,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/8CE14695-6ABE-4F97-8223-6F4EC450DD55\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/8CE14695-6ABE-4F97-8223-6F4EC450DD55\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A1125FDA-619C-4C29-9EB8-8A164CC3585D\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5294,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A1125FDA-619C-4C29-9EB8-8A164CC3585D\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A1125FDA-619C-4C29-9EB8-8A164CC3585D\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/a2ef55a6-d695-447c-81d2-98279255626b\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15061,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/a2ef55a6-d695-447c-81d2-98279255626b\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/a2ef55a6-d695-447c-81d2-98279255626b\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A83BE169-A1BF-4E3F-9E90-83E9681DDD3F\/assets\/E1EB2DD6827A38098F9164DAD91853DD.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2071,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A83BE169-A1BF-4E3F-9E90-83E9681DDD3F\/assets\/E1EB2DD6827A38098F9164DAD91853DD.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A83BE169-A1BF-4E3F-9E90-83E9681DDD3F\/assets\/E1EB2DD6827A38098F9164DAD91853DD.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A83BE169-A1BF-4E3F-9E90-83E9681DDD3F\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15252,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A83BE169-A1BF-4E3F-9E90-83E9681DDD3F\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/A83BE169-A1BF-4E3F-9E90-83E9681DDD3F\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/282E659A149559054A0BB5E67671C151.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8461,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/282E659A149559054A0BB5E67671C151.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/282E659A149559054A0BB5E67671C151.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/44049C2F58D9FA1612EF16DB83E2566F.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 379577,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/44049C2F58D9FA1612EF16DB83E2566F.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/44049C2F58D9FA1612EF16DB83E2566F.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/60497687480681EEB4993BBDD44D6C76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1918,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/60497687480681EEB4993BBDD44D6C76.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/60497687480681EEB4993BBDD44D6C76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/66659A04222B1DF985437F41E0B83CCB.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2129,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/66659A04222B1DF985437F41E0B83CCB.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/assets\/66659A04222B1DF985437F41E0B83CCB.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5289,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/b190a78f-5706-4f26-a3f3-694260df8890\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/C9922C04-36D3-4716-A3AB-91CEF24A3AC9\/assets\/416FA463132D890A0059A82BF7CBE0AE.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4490,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/C9922C04-36D3-4716-A3AB-91CEF24A3AC9\/assets\/416FA463132D890A0059A82BF7CBE0AE.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/C9922C04-36D3-4716-A3AB-91CEF24A3AC9\/assets\/416FA463132D890A0059A82BF7CBE0AE.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/C9922C04-36D3-4716-A3AB-91CEF24A3AC9\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5301,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/C9922C04-36D3-4716-A3AB-91CEF24A3AC9\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/C9922C04-36D3-4716-A3AB-91CEF24A3AC9\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/EC96EFFD-7B2B-4224-82EE-E1D6D3864862\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14024,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/EC96EFFD-7B2B-4224-82EE-E1D6D3864862\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/EC96EFFD-7B2B-4224-82EE-E1D6D3864862\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/AnimationManager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/AnimationManager.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/AnimationManager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/close_d.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1176,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/close_d.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/close_d.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/DebuggingSupport.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/DebuggingSupport.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/DebuggingSupport-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/DisplayManager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/DisplayManager.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/DisplayManager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/Help.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66638,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/Help.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/Help.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/HelpPlacardController.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/HelpPlacardController.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/HelpPlacardController-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KeynoteDHTMLPlayer.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KeynoteDHTMLPlayer.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KeynoteDHTMLPlayer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KeynoteDHTMLPlayer.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KeynoteDHTMLPlayer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KeynoteDHTMLPlayer.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/KeynoteDHTMLPlayer-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KNTransitionSlide_Black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4888,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KNTransitionSlide_Black.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KNTransitionSlide_Black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KNTransitionSwoosh_Shadow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8430,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KNTransitionSwoosh_Shadow.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KNTransitionSwoosh_Shadow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KPFObjects.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/KPFObjects.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/KPFObjects-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_d-hd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1813,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_d-hd.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_d-hd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_d.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 736,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_d.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_d.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_n-hd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1897,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_n-hd.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_n-hd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_n.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 821,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_n.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/left_arrow_mobile_n.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/NarrationManager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/NarrationManager.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/NarrationManager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/NavigatorController.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/NavigatorController.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/NavigatorController-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/OrientationController.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/OrientationController.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/OrientationController-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/prototype.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/prototype.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/prototype-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_d-hd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1846,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_d-hd.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_d-hd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_d.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 775,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_d.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_d.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_n-hd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1864,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_n-hd.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_n-hd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_n.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 837,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_n.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/right_arrow_mobile_n.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/ScriptManager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/ScriptManager.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/ScriptManager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/ShowController.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/ShowController.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/ShowController-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/SlideManager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/SlideManager.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/SlideManager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/SlideNumberController.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/SlideNumberController.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/SlideNumberController-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/spinner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25327,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/spinner.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/spinner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/StageManager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/StageManager.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/StageManager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/string.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/string.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/string-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/TextureManager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/TextureManager.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/TextureManager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/TouchController.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/TouchController.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/TouchController-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/Utilities.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/Utilities.js",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/min\/Utilities-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/waiting_bezel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1431,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/waiting_bezel.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/player\/waiting_bezel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/assets\/thumbnail.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12554,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/thumbnail.jpeg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/assets\/thumbnail.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/csbs-website-layouts\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/csbs-website-layouts\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_00317_2040x1360-small-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24239,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_00317_2040x1360-small-12.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_00317_2040x1360-small-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_02016_981x654-small-14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24220,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_02016_981x654-small-14.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_02016_981x654-small-14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_02390_2880x1921-small-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28047,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_02390_2880x1921-small-10.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/110809_FamilyChineseOahu_EN_02390_2880x1921-small-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Christopher_Styles_Logo_Isolated_w-text-344.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 375563,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Christopher_Styles_Logo_Isolated_w-text-344.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Christopher_Styles_Logo_Isolated_w-text-344.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Christopher_Styles_Logo_Isolated_w-text-small-345.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54968,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Christopher_Styles_Logo_Isolated_w-text-small-345.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Christopher_Styles_Logo_Isolated_w-text-small-345.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Lpro_logo150-1512.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42162,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Lpro_logo150-1512.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Lpro_logo150-1512.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Lpro_logo150-small-1513.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23222,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Lpro_logo150-small-1513.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Lpro_logo150-small-1513.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt10@2x-92.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35033,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt10@2x-92.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt10@2x-92.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt1@2x-83.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26633,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt1@2x-83.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt1@2x-83.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt2@2x-84.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8609,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt2@2x-84.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt2@2x-84.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt3@2x-85.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17795,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt3@2x-85.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt3@2x-85.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt4@2x-86.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8883,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt4@2x-86.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt4@2x-86.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt5@2x-87.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24793,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt5@2x-87.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt5@2x-87.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt6@2x-88.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26484,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt6@2x-88.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt6@2x-88.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt7@2x-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26724,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt7@2x-89.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt7@2x-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt8@2x-90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26784,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt8@2x-90.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt8@2x-90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt9@2x-91.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7147,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt9@2x-91.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/mt9@2x-91.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.43.12 PM-505.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10414,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.43.12 PM-505.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.43.12 PM-505.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.49-545.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26403,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.49-545.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.49-545.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.49.38 PM-544.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81679,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.49.38 PM-544.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 3.49.38 PM-544.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.01-585.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28344,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.01-585.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.01-585.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.01.38 PM-584.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131667,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.01.38 PM-584.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.01.38 PM-584.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.27-662.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25792,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.27-662.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.27-662.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.27.57 PM-661.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79163,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.27.57 PM-661.png",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/Screen Shot 2014-03-12 at 4.27.57 PM-661.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st0-1524.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22188,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st0-1524.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st0-1524.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st1-1373.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26477,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st1-1373.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st1-1373.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st1-1521.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5932,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st1-1521.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st1-1521.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st10-1261.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21879,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st10-1261.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st10-1261.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st11-1263.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25091,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st11-1263.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st11-1263.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st2-1376.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25991,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st2-1376.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st2-1376.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st3-1369.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26164,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st3-1369.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st3-1369.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st4-1147.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26119,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st4-1147.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st4-1147.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st4-1368.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24818,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st4-1368.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st4-1368.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st5-1171.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5951,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st5-1171.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st5-1171.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st7-1335.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23535,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st7-1335.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st7-1335.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1172.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5937,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1172.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1172.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1328.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18361,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1328.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1328.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1366.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23906,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1366.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/Data\/st8-1366.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview-micro.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1362,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview-micro.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview-micro.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview-web.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8075,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview-web.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview-web.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119134,
+		"inputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview.jpg",
+		"outputAbbreviatedPath": "\/_asset\/design\/ui\/CStyles-WebsiteDesign.key\/preview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/LSWP-code\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/LSWP-code\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_asset\/LSWP-code\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_asset\/LSWP-code\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_asset\/Samples\/img\/b4Afters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128304,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/b4Afters.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/b4Afters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/b4Afters2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131647,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/b4Afters2.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/b4Afters2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/cuts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106798,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/cuts.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/cuts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/girl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 519788,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/girl.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/girl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/girl2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 552027,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/girl2.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/girl2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/kids.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103965,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/kids.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/kids.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/kids2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113168,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/kids2.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/kids2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/kids3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107896,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/kids3.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/kids3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/ladies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97103,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/ladies.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/ladies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/manicure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70371,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/manicure.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/manicure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/men.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116567,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/men.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/men.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/shampoo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106043,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/shampoo.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/shampoo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/shave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125370,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/shave.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/shave.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/shave2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107007,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/shave2.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/shave2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/shave3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98085,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/shave3.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/shave3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/shaveNeck.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81564,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/shaveNeck.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/shaveNeck.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/spCuts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76505,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/spCuts.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/spCuts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/spCuts2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105707,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/spCuts2.jpg",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/spCuts2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/img\/spGirls.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 641271,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/img\/spGirls.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/img\/spGirls.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.43.12 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14438,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.43.12 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.43.12 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.49.22 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85993,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.49.22 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.49.22 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.49.38 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84286,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.49.38 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 3.49.38 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-12 at 4.01.38 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135173,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 4.01.38 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 4.01.38 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-12 at 4.27.57 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81651,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 4.27.57 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-12 at 4.27.57 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.41.05 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76271,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.41.05 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.41.05 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.45.51 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137829,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.45.51 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.45.51 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.56.09 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226656,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.56.09 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 2.56.09 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-03-20 at 3.47.41 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 437700,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 3.47.41 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-03-20 at 3.47.41 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-04-03 at 10.32.39 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 485198,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 10.32.39 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 10.32.39 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.23.10 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 543320,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.23.10 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.23.10 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.23.26 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 392935,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.23.26 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.23.26 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.20 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176035,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.20 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.20 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.35 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 593041,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.35 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.35 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.58 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 638396,
+		"inputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.58 PM.png",
+		"outputAbbreviatedPath": "\/_asset\/Samples\/Screen Shot 2014-04-03 at 9.25.58 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/about-cstyles-barber-spa\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/about-cstyles-barber-spa\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/barber-spa-hair-color\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/barber-spa-hair-color\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/barber-spa-hair-cuts\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/barber-spa-hair-cuts\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/barber-spa-hair-manicures\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/barber-spa-hair-manicures\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/barber-spa-packages\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/barber-spa-packages\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/barber-spa-services\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/barber-spa-services\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/barber-spa-shaves\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/barber-spa-shaves\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/cast-cstyles-barber-spa\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/cast-cstyles-barber-spa\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/contact-cstyles-barber-spa\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/contact-cstyles-barber-spa\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/global.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/global.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/home.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/home.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/ie.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/ie6.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/ie6.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/jquery.jscrollpane.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/jquery.jscrollpane.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/main-SAVE.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/main-SAVE.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/mobileNav.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/mobileNav.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/events-cstyles-barber-spa\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/events-cstyles-barber-spa\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/fonts\/helveticaneueltstd-mdcn-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/fonts\/helveticaneueltstd-mdcn-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/fonts\/helveticaneueltstd-regular-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/fonts\/helveticaneueltstd-regular-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/images\/about_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16130,
+		"inputAbbreviatedPath": "\/_backup\/images\/about_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/about_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/about_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16349,
+		"inputAbbreviatedPath": "\/_backup\/images\/about_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/about_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/bestgroom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58359,
+		"inputAbbreviatedPath": "\/_backup\/images\/bestgroom.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/bestgroom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast2_Charmane.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42255,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast2_Charmane.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast2_Charmane.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast2_Lana.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50466,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast2_Lana.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast2_Lana.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast2_Rose.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50609,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast2_Rose.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast2_Rose.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_BJones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52969,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_BJones.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_BJones.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_CStyles.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49869,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_CStyles.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_CStyles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_EPyles.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53569,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_EPyles.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_EPyles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8353,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8513,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_KLandry.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46389,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_KLandry.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_KLandry.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_LFlores.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58483,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_LFlores.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_LFlores.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_LMoreno.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42968,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_LMoreno.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_LMoreno.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_Logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21693,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_Logo.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_Logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_RRoepke.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50308,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_RRoepke.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_RRoepke.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cast_Sofia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45714,
+		"inputAbbreviatedPath": "\/_backup\/images\/cast_Sofia.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cast_Sofia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/chrisBG.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70795,
+		"inputAbbreviatedPath": "\/_backup\/images\/chrisBG.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/chrisBG.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/contact_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10907,
+		"inputAbbreviatedPath": "\/_backup\/images\/contact_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/contact_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/contact_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11186,
+		"inputAbbreviatedPath": "\/_backup\/images\/contact_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/contact_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/CS_productsLogos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16028,
+		"inputAbbreviatedPath": "\/_backup\/images\/CS_productsLogos.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/CS_productsLogos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/CS_productsLogos_sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16058,
+		"inputAbbreviatedPath": "\/_backup\/images\/CS_productsLogos_sm.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/CS_productsLogos_sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/csbs_map.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69115,
+		"inputAbbreviatedPath": "\/_backup\/images\/csbs_map.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/csbs_map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cstylesLogo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252343,
+		"inputAbbreviatedPath": "\/_backup\/images\/cstylesLogo.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cstylesLogo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cstylesLogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215016,
+		"inputAbbreviatedPath": "\/_backup\/images\/cstylesLogo.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cstylesLogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cstylesLogo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99832,
+		"inputAbbreviatedPath": "\/_backup\/images\/cstylesLogo2.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cstylesLogo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cstylesLogo2a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123866,
+		"inputAbbreviatedPath": "\/_backup\/images\/cstylesLogo2a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cstylesLogo2a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cstylesLogo2b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 311693,
+		"inputAbbreviatedPath": "\/_backup\/images\/cstylesLogo2b.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cstylesLogo2b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cstylesLogoHome2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171321,
+		"inputAbbreviatedPath": "\/_backup\/images\/cstylesLogoHome2.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cstylesLogoHome2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cstylesLogoHome3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245022,
+		"inputAbbreviatedPath": "\/_backup\/images\/cstylesLogoHome3.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/cstylesLogoHome3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cuts_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8327,
+		"inputAbbreviatedPath": "\/_backup\/images\/cuts_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cuts_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/cuts_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8503,
+		"inputAbbreviatedPath": "\/_backup\/images\/cuts_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/cuts_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/DadDayImg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28165,
+		"inputAbbreviatedPath": "\/_backup\/images\/DadDayImg.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/DadDayImg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/events_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10581,
+		"inputAbbreviatedPath": "\/_backup\/images\/events_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/events_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/events_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10768,
+		"inputAbbreviatedPath": "\/_backup\/images\/events_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/events_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/fb_icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5586,
+		"inputAbbreviatedPath": "\/_backup\/images\/fb_icon.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/fb_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/grandOpen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75018,
+		"inputAbbreviatedPath": "\/_backup\/images\/grandOpen.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/grandOpen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/hairColor_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14119,
+		"inputAbbreviatedPath": "\/_backup\/images\/hairColor_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/hairColor_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/hairColor_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14298,
+		"inputAbbreviatedPath": "\/_backup\/images\/hairColor_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/hairColor_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/homeBg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.54661e+06,
+		"inputAbbreviatedPath": "\/_backup\/images\/homeBg.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/homeBg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/inst_icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13022,
+		"inputAbbreviatedPath": "\/_backup\/images\/inst_icon.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/inst_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/logohr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22425,
+		"inputAbbreviatedPath": "\/_backup\/images\/logohr.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/logohr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/man-icures_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16026,
+		"inputAbbreviatedPath": "\/_backup\/images\/man-icures_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/man-icures_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/man-icures_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16251,
+		"inputAbbreviatedPath": "\/_backup\/images\/man-icures_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/man-icures_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/news_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9388,
+		"inputAbbreviatedPath": "\/_backup\/images\/news_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/news_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/news_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9547,
+		"inputAbbreviatedPath": "\/_backup\/images\/news_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/news_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/packages_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15402,
+		"inputAbbreviatedPath": "\/_backup\/images\/packages_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/packages_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/packages_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15349,
+		"inputAbbreviatedPath": "\/_backup\/images\/packages_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/packages_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/pagebg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144,
+		"inputAbbreviatedPath": "\/_backup\/images\/pagebg.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/pagebg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/pagebg2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146,
+		"inputAbbreviatedPath": "\/_backup\/images\/pagebg2.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/pagebg2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/photos_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11785,
+		"inputAbbreviatedPath": "\/_backup\/images\/photos_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/photos_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/photos_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11881,
+		"inputAbbreviatedPath": "\/_backup\/images\/photos_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/photos_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/promImg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94168,
+		"inputAbbreviatedPath": "\/_backup\/images\/promImg.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/promImg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/ser_sprites.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16710,
+		"inputAbbreviatedPath": "\/_backup\/images\/ser_sprites.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/ser_sprites.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/ser_sprites2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45136,
+		"inputAbbreviatedPath": "\/_backup\/images\/ser_sprites2.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/ser_sprites2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/ser_spriteshome.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20134,
+		"inputAbbreviatedPath": "\/_backup\/images\/ser_spriteshome.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/ser_spriteshome.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/services_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10542,
+		"inputAbbreviatedPath": "\/_backup\/images\/services_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/services_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/services_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10659,
+		"inputAbbreviatedPath": "\/_backup\/images\/services_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/services_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/shaves_h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10873,
+		"inputAbbreviatedPath": "\/_backup\/images\/shaves_h1.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/shaves_h1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/shaves_h1a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11048,
+		"inputAbbreviatedPath": "\/_backup\/images\/shaves_h1a.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/shaves_h1a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/superBowlParty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80651,
+		"inputAbbreviatedPath": "\/_backup\/images\/superBowlParty.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/superBowlParty.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/surveybanner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34616,
+		"inputAbbreviatedPath": "\/_backup\/images\/surveybanner.jpg",
+		"outputAbbreviatedPath": "\/_backup\/images\/surveybanner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/images\/twit_icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7376,
+		"inputAbbreviatedPath": "\/_backup\/images\/twit_icon.png",
+		"outputAbbreviatedPath": "\/_backup\/images\/twit_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/js\/hoverIntent.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/hoverIntent.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/hoverIntent-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/jquery-1.3.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/jquery-1.3.1.min.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/jquery-1.3.1.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/jquery-1.7.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/jquery-1.7.2.min.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/jquery-1.7.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/jquery.dropdown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/jquery.dropdown.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/jquery.dropdown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/jquery.dropdownPlain.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/jquery.dropdownPlain.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/jquery.dropdownPlain-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/jquery.easing.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/jquery.easing.min.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/jquery.easing.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/jquery.jscrollpane.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/jquery.jscrollpane.min.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/jquery.jscrollpane.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/jquery.mousewheel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/jquery.mousewheel.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/jquery.mousewheel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/mwheelIntent.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/mwheelIntent.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/mwheelIntent-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/js\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/js\/script.js",
+		"outputAbbreviatedPath": "\/_backup\/js\/min\/script-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/missing.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/missing.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/news-cstyles-barber-spa\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/news-cstyles-barber-spa\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1517,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_close.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_loading.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10195,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_loading.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_loading.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_nav_left.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1446,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_nav_left.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_nav_left.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_nav_right.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1454,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_nav_right.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_nav_right.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_e.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_e.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_e.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_n.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_n.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_n.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_ne.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 347,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_ne.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_ne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_nw.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 324,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_nw.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_nw.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_s.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_s.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_s.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_se.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 352,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_se.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_se.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_sw.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 340,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_sw.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_sw.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_w.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_w.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_shadow_w.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_left.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 503,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_left.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_left.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_main.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_main.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_main.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_over.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_right.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 506,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_right.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancy_title_right.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox-x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox-x.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox-x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox-y.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox-y.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox-y.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15287,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox.png",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/fancybox\/fancybox.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/jquery.fancybox-1.3.4.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/jquery.fancybox-1.3.4.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/jquery.fancybox-1.3.4.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/jquery.fancybox-1.3.4.pack.js",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/min\/jquery.fancybox-1.3.4.pack-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_backup\/photos-cstyles-barber-spa\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/jquery.min.js",
+		"outputAbbreviatedPath": "\/_backup\/photos-cstyles-barber-spa\/min\/jquery.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_css\/bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_css\/bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_img\/cast2_Charmane.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42255,
+		"inputAbbreviatedPath": "\/_img\/cast2_Charmane.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast2_Charmane.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast2_Lana.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50466,
+		"inputAbbreviatedPath": "\/_img\/cast2_Lana.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast2_Lana.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_BJones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52969,
+		"inputAbbreviatedPath": "\/_img\/cast_BJones.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_BJones.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_CStyles.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49869,
+		"inputAbbreviatedPath": "\/_img\/cast_CStyles.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_CStyles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_EPyles.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53569,
+		"inputAbbreviatedPath": "\/_img\/cast_EPyles.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_EPyles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_LFlores.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58483,
+		"inputAbbreviatedPath": "\/_img\/cast_LFlores.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_LFlores.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_Logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21693,
+		"inputAbbreviatedPath": "\/_img\/cast_Logo.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_Logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_Sofia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45714,
+		"inputAbbreviatedPath": "\/_img\/cast_Sofia.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_Sofia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91337,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-1.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93859,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95140,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-3.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87507,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-4.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92290,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-5.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/CS_productsLogos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16028,
+		"inputAbbreviatedPath": "\/_img\/CS_productsLogos.jpg",
+		"outputAbbreviatedPath": "\/_img\/CS_productsLogos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/csbs-backHouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65917,
+		"inputAbbreviatedPath": "\/_img\/csbs-backHouse.jpg",
+		"outputAbbreviatedPath": "\/_img\/csbs-backHouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/csbs-barberChairs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66686,
+		"inputAbbreviatedPath": "\/_img\/csbs-barberChairs.jpg",
+		"outputAbbreviatedPath": "\/_img\/csbs-barberChairs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/csbs-frontHouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59145,
+		"inputAbbreviatedPath": "\/_img\/csbs-frontHouse.jpg",
+		"outputAbbreviatedPath": "\/_img\/csbs-frontHouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cstylesLogo2b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 311693,
+		"inputAbbreviatedPath": "\/_img\/cstylesLogo2b.png",
+		"outputAbbreviatedPath": "\/_img\/cstylesLogo2b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_includes\/builder.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/builder.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/sub-nav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/sub-nav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_js\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/_js\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_js\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_js\/script.js",
+		"outputAbbreviatedPath": "\/_js\/min\/script-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/about-cstyles-barber-spa\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about-cstyles-barber-spa\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/barber-spa-hair-color\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/barber-spa-hair-color\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/barber-spa-hair-cuts\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/barber-spa-hair-cuts\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/barber-spa-hair-manicures\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/barber-spa-hair-manicures\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/barber-spa-packages\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/barber-spa-packages\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/barber-spa-services\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/barber-spa-services\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/barber-spa-shaves\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/barber-spa-shaves\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cast-cstyles-barber-spa\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cast-cstyles-barber-spa\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact-cstyles-barber-spa\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact-cstyles-barber-spa\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/events-cstyles-barber-spa\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/events-cstyles-barber-spa\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/news-cstyles-barber-spa\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/news-cstyles-barber-spa\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/photos-cstyles-barber-spa\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/photos-cstyles-barber-spa\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "lisa smith",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "cstylesbarberspa",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "compass_orange"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 1,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
