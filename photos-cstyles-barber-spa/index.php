@@ -30,50 +30,7 @@
 			</header><!-- #header -->
 				 <?php require("../_includes/sub-nav.php"); ?>
 			<div class="contentWrap">
-				<section class="photoPage">
-								
-						<div id="gallery">
-							<h1 id="photosHeader">Photos</h1>
-					<script type="text/javascript">
-						$(function() {
-							$("a.group").fancybox({
-								'nextEffect'	:	'fade',
-								'prevEffect'	:	'fade',
-								'overlayOpacity' :  0.8,
-								'overlayColor' : '#000000',
-								'arrows' : false,
-							});			
-						});
-					</script>	
-					<?php
-						// Supply a user id and an access token
-						$userid = "29559735";
-						$accessToken = "29559735.ab103e5.c6688cb27eba4b4f89de59481ed924ea";
-				
-						// Gets our data
-						function fetchData($url){
-						     $ch = curl_init();
-						     curl_setopt($ch, CURLOPT_URL, $url);
-						     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-						     curl_setopt($ch, CURLOPT_TIMEOUT, 20);
-						     $result = curl_exec($ch);
-						     curl_close($ch); 
-						     return $result;
-						}
-				
-						// Pulls and parses data.
-						$result = fetchData("https://api.instagram.com/v1/users/{$userid}/media/recent/?access_token={$accessToken}");
-						$result = json_decode($result);
-					?>
-				
-				
-					<?php foreach ($result->data as $post): ?>
-						<!-- Renders images. @Options (thumbnail,low_resoulution, high_resolution) -->
-						<a class="group" rel="group1" href="<?= $post->images->standard_resolution->url ?>"><img src="<?= $post->images->thumbnail->url ?>"></a>
-					<?php endforeach ?>
-					</div>
-				
-				</section>
+				<iframe id="iframecode" scrolling="no" frameborder="0" width="100%" src="http://instaembedder.com/gallery.php?username=stylesbarberspa&amp;hashtag=&amp;width=130&amp;cols=6&amp;frame=1&amp;image_border=10&amp;rows=2&amp;cell_margin=5&amp;display_username=0&amp;likes=0&amp;comments=0&amp;date=0&amp;link=0&amp;caption=0&amp;color=gray" style="height: 340px;" onload=""></iframe>
 			</div><!-- #contentWrap -->
 		<div class="push"></div>
 			</div><!-- #wrapper -->

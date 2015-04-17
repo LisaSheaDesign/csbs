@@ -85,7 +85,10 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<p>Stay tuned for upcoming events!</p>
+							<h3>Sunday, April 5th - Closed for Easter</h3>
+							<p>We will be closed for Easter. We will resume to normal business hours on Monday, April 6th from 11-5pm.</p>
+							<p> Please schedule your appointments accordingly. Thank you!</p>
+							<h3>Stay tuned for upcoming events!</h3>
 							<p>Join the C-Styles email list to get the scoop on events, promotions, and more!</p>
 							</div>
 						</article> <!-- events END -->

@@ -73,8 +73,6 @@ $(function(){
 	
 	});  // end .followFacebook h2
 	
-	}; 
-
-
+	}
 
 }); // End Of Document
