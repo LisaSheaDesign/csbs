@@ -31,6 +31,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_img\/cast2_Lana-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33436,
+		"inputAbbreviatedPath": "\/_img\/cast2_Lana-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast2_Lana-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_img\/cast2_Lana.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -38,6 +49,17 @@
 		"initialSize": 50466,
 		"inputAbbreviatedPath": "\/_img\/cast2_Lana.jpg",
 		"outputAbbreviatedPath": "\/_img\/cast2_Lana.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_BJones-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29799,
+		"inputAbbreviatedPath": "\/_img\/cast_BJones-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_BJones-v2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53,6 +75,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_img\/cast_CStyles-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33781,
+		"inputAbbreviatedPath": "\/_img\/cast_CStyles-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_CStyles-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_img\/cast_CStyles.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -64,6 +97,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_img\/cast_EPyles-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32753,
+		"inputAbbreviatedPath": "\/_img\/cast_EPyles-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_EPyles-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_img\/cast_EPyles.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -71,6 +115,17 @@
 		"initialSize": 53569,
 		"inputAbbreviatedPath": "\/_img\/cast_EPyles.jpg",
 		"outputAbbreviatedPath": "\/_img\/cast_EPyles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_LFlores-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44130,
+		"inputAbbreviatedPath": "\/_img\/cast_LFlores-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_LFlores-v2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -93,6 +148,28 @@
 		"initialSize": 21693,
 		"inputAbbreviatedPath": "\/_img\/cast_Logo.jpg",
 		"outputAbbreviatedPath": "\/_img\/cast_Logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_receptionist-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48111,
+		"inputAbbreviatedPath": "\/_img\/cast_receptionist-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_receptionist-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cast_Sofia-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32753,
+		"inputAbbreviatedPath": "\/_img\/cast_Sofia-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cast_Sofia-v2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -315,6 +392,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_js\/bootstrap.min.js",
 		"outputAbbreviatedPath": "\/_js\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_js\/min\/script-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_js\/min\/script-min.js",
+		"outputAbbreviatedPath": "\/_js\/min\/min\/script-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

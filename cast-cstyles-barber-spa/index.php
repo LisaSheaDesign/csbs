@@ -32,10 +32,12 @@
 			<div class="contentWrap">
 				<section class="castPage">
 					<h1>Cast</h1>
+					<h2>The C Styles Family</h2>
+					<div class="familyImg"><img src="../_img/CStylesFamily-v2.jpg" alt="Christopher Styles Receptionist" /></div>
 					<h2>Hairstylist</h2>
 					<div class="media">
 					  <div class="pull-left sideImg">
-					    <img class="media-object" src="../_img/cast_EPyles.jpg" alt="Erica Pyles-hairstylist" />
+					    <img class="media-object" src="../_img/cast_EPyles-v2.jpg" alt="Erica Pyles-hairstylist" />
 					  </div>
 					  <div class="media-body">
 					    <h3 class="media-heading">Erica Pyles</h3>
@@ -44,7 +46,7 @@
 					</div> <!-- media END -->
 					<div class="media">
 					  <div class="pull-left sideImg">
-					    <img class="media-object" src="../_img/cast_BJones.jpg" alt="Brent Jones-hairstylist" />
+					    <img class="media-object" src="../_img/cast_BJones-v2.jpg" alt="Brent Jones-hairstylist" />
 					  </div>
 					  <div class="media-body">
 					    <h3 class="media-heading">Brent Jones</h3>
@@ -53,7 +55,7 @@
 					</div> <!-- media END -->
 					<div class="media">
 					  <div class="pull-left sideImg">
-					    <img class="media-object" src="../_img/cast_Sofia.jpg" alt="Sofia Gomez-hairstylist" />
+					    <img class="media-object" src="../_img/cast_Sofia-v2.jpg" alt="Sofia Gomez-hairstylist" />
 					  </div>
 					  <div class="media-body">
 					    <h3 class="media-heading">Sofia Gomez</h3>
@@ -62,7 +64,7 @@
 					</div> <!-- media END -->
 					<div class="media">
 					  <div class="pull-left sideImg">
-					    <img class="media-object" src="../_img/cast_LFlores.jpg" alt="Laura Flores-cosmetologist" />
+					    <img class="media-object" src="../_img/cast_LFlores-v2.jpg" alt="Laura Flores-cosmetologist" />
 					  </div>
 					  <div class="media-body">
 					    <h3 class="media-heading">Laura Flores</h3>
@@ -71,7 +73,7 @@
 					</div> <!-- media END -->
 					<div class="media">
 					  <div class="pull-left sideImg">
-					    <img class="media-object" src="../_img/cast_CStyles.jpg" alt="Christopher Styles-hairstylist" />
+					    <img class="media-object" src="../_img/cast_CStyles-v2.jpg" alt="Christopher Styles-hairstylist" />
 					  </div>
 					  <div class="media-body">
 					    <h3 class="media-heading">Christopher Styles</h3>
@@ -82,10 +84,11 @@
 					
 					<h2>Receptionist</h2>
 					<ul class="recept clearfix">
-						<li><!-- <div class="sideImg"><img src="../_img/cast2_Charmane.jpg" alt="Christopher Styles-hairstylist" /></div> --><h3>Charmane</h3></li>
-						<li><!-- <div class="sideImg"><img src="../_img/cast2_Lana.jpg" alt="Christopher Styles-hairstylist" /></div> --><h3>Lana</h3></li>
-						<li><!-- <div class="sideImg"><img src="../_img/cast_Logo.jpg" alt="Christopher Styles-hairstylist" /></div> --><h3>Victoria</h3></li>
+						<li><h3>Charmane</h3></li>
+						<li><h3>Lana</h3></li>
+						<li><h3>Victoria</h3></li>
 					</ul>
+					<div class="receptImg"><img src="../_img/cast_receptionist-v2.jpg" alt="Christopher Styles Receptionist" /></div>
 				</section>
 		</div><!-- #contentWrap -->
 		<div class="push"></div>

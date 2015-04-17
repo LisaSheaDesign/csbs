@@ -280,6 +280,12 @@ header .dropdown-menu .divider {
 
 .castPage .recept li {float:left; margin-right:15px;}
 
+.castPage .receptImg {width: 40%;}
+
+.castPage .familyImg {margin: 5px 0;}
+
+.castPage .familyImg img {display: block;} 
+
 .contactPage h1, .photoPage h1 {margin-bottom:10px;}
 
 .newsPage h1, .castPage h1 {border:none;}
