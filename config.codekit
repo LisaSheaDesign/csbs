@@ -152,17 +152,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_img\/cast_receptionist-v2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 48111,
-		"inputAbbreviatedPath": "\/_img\/cast_receptionist-v2.jpg",
-		"outputAbbreviatedPath": "\/_img\/cast_receptionist-v2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_img\/cast_Sofia-v2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -339,6 +328,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_img\/CStylesFamily-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156802,
+		"inputAbbreviatedPath": "\/_img\/CStylesFamily-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/CStylesFamily-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_img\/cstylesLogo2b.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -346,6 +346,17 @@
 		"initialSize": 311693,
 		"inputAbbreviatedPath": "\/_img\/cstylesLogo2b.png",
 		"outputAbbreviatedPath": "\/_img\/cstylesLogo2b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/receptionist-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81300,
+		"inputAbbreviatedPath": "\/_img\/receptionist-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/receptionist-v2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
