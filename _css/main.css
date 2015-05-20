@@ -156,6 +156,17 @@ h3 {color: #9D7F81; font-weight: bold; margin-bottom:15px;}
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'icomoon';
+	src:url(../'_fonts/icomoon-yelp.eot?anwhj1');
+	src:url('../_fonts/icomoon-yelp.eot?#iefixanwhj1') format('embedded-opentype'),
+		url('../_fonts/icomoon-yelp.woff?anwhj1') format('woff'),
+		url('../_fonts/icomoon-yelp.ttf?anwhj1') format('truetype'),
+		url('../_fonts/icomoon-yelp.svg?anwhj1#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 [class^="icon-"], [class*=" icon-"] {
 	font-family: 'icomoon';
 	speak: none;
@@ -184,6 +195,10 @@ h3 {color: #9D7F81; font-weight: bold; margin-bottom:15px;}
 }
 .icon-youtube:before {
 	content: "\e609";
+}
+
+.icon-yelp:before {
+  content: "\ead9";
 }
 
 

@@ -39,20 +39,36 @@
 			    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
 			    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
 			    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+			    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+			    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+			    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+			    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
 			  </ol>
 			
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner">
 			    <div class="item active">
+			       <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-9.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
+				</div><!-- item -->
+			    <div class="item">
 			       <a href="*" data-toggle="modal" data-target="#myModal"><img src="_img/cs-homeSlide-3.jpg" alt="C-Styles Barber Spa Commercial"></a>
 				</div><!-- item -->
 			    <div class="item">
+			      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-10.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
+			    </div><!-- item -->
+			    <div class="item">
 			      <img src="_img/cs-homeSlide-6.jpg" alt="Chris Styles Barber Spa">
+			    </div><!-- item -->
+			    <div class="item">
+			      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-11.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
 			    </div><!-- item -->
 			    <div class="item">
 			      <img src="_img/cs-homeSlide-8.jpg" alt="Chris Styles Barber Spa">
 				</div><!-- item -->
 				 <div class="item">
+			      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-12.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
+			    </div><!-- item -->
+			    <div class="item">
 			      <img src="_img/cs-homeSlide-7.jpg" alt="Chris Styles Barber Spa">
 				</div><!-- item -->
 			  </div> <!-- carousel-inner END -->
