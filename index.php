@@ -114,6 +114,9 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
+							<h3>We will be closed on Labor Day - Monday, <br />September 7th</h3>
+							<p>We will resume to normal business hours on Tuesday, September 8th from 9-8pm. Please schedule your appointments accordingly.</p>
+							
 							<h3>Road Construction on Whitsett Ave</h3>
 							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
 							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>
