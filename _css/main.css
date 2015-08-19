@@ -266,6 +266,7 @@ header .dropdown-menu .divider {
 .ie8 .navbar-nav.navbar-right {margin-right: -15px;}
 
 /* ======================= Content ======================= */
+#eModal img {width: 100%;}
 
 /* homepage mobile elements */
 
@@ -506,7 +507,7 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 	.byLine {margin-top:10px;}
 	
 	.contentWrap section p {width:95%;}
-	
+
 }
 
 
@@ -548,7 +549,6 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 	
 	.bookNowBox .onlineBookBtn {margin-top:0;}
 	
-
 }
 
 @media screen and (max-width:767px) {

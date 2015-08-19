@@ -75,18 +75,31 @@
 			</div> <!-- carousel-example-generic END -->
 			<!-- slideShow END -->
 			<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-      </div>
-      <div class="modal-body video-container">
-       <iframe width="560" height="315" src="//www.youtube.com/embed/yP7ouGWeFwc?rel=0" frameborder="0" allowfullscreen></iframe>
-      </div>
-      </div>
-  </div>
-</div>
+			<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			  <div class="modal-dialog">
+			    <div class="modal-content">
+			      <div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			      </div>
+			      <div class="modal-body video-container">
+			       <iframe width="560" height="315" src="//www.youtube.com/embed/yP7ouGWeFwc?rel=0" frameborder="0" allowfullscreen></iframe>
+			      </div>
+			      </div>
+			  </div>
+			</div>
+			<!-- Modal -->
+			<div class="modal fade" id="eModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			  <div class="modal-dialog">
+			    <div class="modal-content">
+			      <div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			      </div>
+			      <div class="modal-body video-container">
+			       <img src="_img/rdConst.jpg" alt="C-Styles Barber Spa - road construction on Whitsett Ave">
+			      </div>
+			      </div>
+			  </div>
+			</div>
 				<section class="intro">
 					<article class="row">
 					<div class="col-md-4">
@@ -101,11 +114,9 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<h3>Monday, May 25th - Closed for Memorial Day</h3>
-							<p>We will resume to normal business hours on Tuesday, May 26th from 9-8pm</p>
-							<p>Please schedule your appointments accordingly. Thank you!</p>
-							<h3>Stay tuned for upcoming events!</h3>
-							<p>Join the C-Styles email list to get the scoop on events, promotions, and more!</p>
+							<h3>Road Construction on Whitsett Ave</h3>
+							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
+							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>
 							</div>
 						</article> <!-- events END -->
 						<article class="col-md-6 padding promo">
