@@ -43,11 +43,15 @@
 			    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
 			    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
 			    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+			    <li data-target="#carousel-example-generic" data-slide-to="8"></li>
 			  </ol>
 			
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner">
 			    <div class="item active">
+			       <img src="_img/cs-homeSlide-13.jpg" alt="Chris Styles Barber Spa temporary relocation">
+				</div><!-- item -->
+				<div class="item">
 			       <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-9.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
 				</div><!-- item -->
 			    <div class="item">
@@ -114,11 +118,47 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
+							<h3>Christopher Styles Barber Spa is Renovating!</h3> 
+							<p>Christopher Styles Barber Spa will be undergoing extensive re-construction and remodeling  due to the incident that occurred on September 3rd.</P>
+							<p>We will be relocating starting Monday, November 2, 2015 and we are expecting to reopen within 4 weeks. We will notify you of the exact date of our reopening 1 week prior to the date.</p>
+							<p>For the week leading up to our relocation, our hours will be extended as follows:</p> 
+							
+							<h3>Monday, October 26 - Thursday, October 29</h3>
+							<p>9am-8pm</p> 
+
+							<h3>Friday, October 30 &amp; Saturday, October 31</h3>
+							<p>9am-9pm</p>
+
+							<h3>Sunday, November 1</h3>
+							<p>9am-4pm</p>
+
+							<p>We will temporarily continue our services starting Monday, November 2, at the new location below:</p>
+
+							<p>Sola Salon Studio<br />
+							15125 Ventura Blvd.<br /> 
+							Sherman Oaks, CA 91403<br />
+							Suite 101, Salon 31<br />
+							*Free Valet Parking with Cstyles Validation</p>
+
+							<p>Due to limited space as well as availability, we will not be accepting walk-ins. Please call (818)766-7900 to schedule your appointment. If your barber or stylist is unavailable on a preferred day or time, please call us and specify the day and time; we will do our best to accommodate you.</p>  
+
+							<h3>Your stylists or barbers schedule at our temporary location is as follows:</h3> 
+
+							<h3>Brent &#8211;</h3>
+							<p>Tuesday 10am-8pm, Wednesday 9am-4pm &amp; Friday 1pm-8pm</p>       
+							<h3>Chris &#8211;</h3>   
+							<p>Wednesday 9am-4pm, Friday 1pm-8pm &amp; Saturday 9am-2pm</p>
+							<h3>Erica &#8211;</h3> 
+							<p>Tuesday 10am-8pm &amp; Wednesday 4:30pm-8pm</p>
+							<h3>Laura &#8211;</h3>
+							<p>Thursday 12pm-8pm &amp; Saturday 2:30pm-7pm</p>
+							<h3>Sofia &#8211;</h3>
+							<p>Monday 11a-5pm &amp; Thursday 9am-3pm</p>
+
+							<p>Thank you for your continued support and cooperation; If you have any questions or concerns, please feel free to give us a call at (818)766-7900.</p>
 							<h3>Road Construction on Whitsett Ave</h3>
 							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
 							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>
-							<h3>Christopher Styles Barber Spa is Renovating!</h3> 
-							<p>We will be closed one day for the start of renovations on Monday, September 28th. Our normal business hours will resume on Tuesday, September 29th from 9-8pm. Please schedule your appointments accordingly.</p>
 							</div>
 						</article> <!-- events END -->
 						<article class="col-md-6 padding promo">

@@ -229,6 +229,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_img\/cs-homeSlide-13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76051,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-13.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_img\/cs-homeSlide-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
