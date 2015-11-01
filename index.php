@@ -108,7 +108,10 @@
 					<article class="row">
 					<div class="col-md-4">
 					  	<div class="bookNowBox">
-					  		<p><strong>Online Booking Is Now Available!</strong> On your next visit ask the front desk for your Login ID and Password.</p><a class="onlineBookBtn" href="http://99.19.209.226/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a></div>
+					  		<?php
+								//<!-- <p><strong>Online Booking Is Now Available!</strong> On your next visit ask the front desk for your Login ID and Password.</p><a class="onlineBookBtn" href="http://99.19.209.226/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a></div> -->
+							?>
+					  		<p>We will temporarily continue our services starting Monday, November 2, at Sola Salon Studio. Check the Event section below for stylists or barbers schedule.</p><strong>To schedule your appointment Please call (818)766-7900.</strong> </div>
 					  	</div>
 					  	<div class="col-md-8 byLine"><p><span>Christopher Styles Barber Spa</span> <em>is an upscale barbershop that blends old school barbering traditions and styling with a modern twist. The integration of technology and luxury provide the perfect place for you to come relax, hang out and refine your appearance. The staff is well diverse in providing cuts for a multi-ethnic clientele; consistently educating themselves with new trends and styles to create the perfect look for you. This full service barber spa not only offers expert cuts and fades, but also straight razor shaves, color services, manicures and pedicures. You can expect more than just a cut, you can expect to feel and look the way a modern lady and gentlemen should.</em></p></div>
 					<div class="moreBtn">more</div>
@@ -121,17 +124,6 @@
 							<h3>Christopher Styles Barber Spa is Renovating!</h3> 
 							<p>Christopher Styles Barber Spa will be undergoing extensive re-construction and remodeling  due to the incident that occurred on September 3rd.</P>
 							<p>We will be relocating starting Monday, November 2, 2015 and we are expecting to reopen within 4 weeks. We will notify you of the exact date of our reopening 1 week prior to the date.</p>
-							<p>For the week leading up to our relocation, our hours will be extended as follows:</p> 
-							
-							<h3>Monday, October 26 - Thursday, October 29</h3>
-							<p>9am-8pm</p> 
-
-							<h3>Friday, October 30 &amp; Saturday, October 31</h3>
-							<p>9am-9pm</p>
-
-							<h3>Sunday, November 1</h3>
-							<p>9am-4pm</p>
-
 							<p>We will temporarily continue our services starting Monday, November 2, at the new location below:</p>
 
 							<p>Sola Salon Studio<br />
