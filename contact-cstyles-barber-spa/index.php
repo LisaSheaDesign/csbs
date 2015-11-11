@@ -54,9 +54,9 @@
 							<h3>Erica &#8211;</h3> 
 							<p>Tuesday 10am-8pm &amp; Wednesday 4:30pm-8pm</p>
 							<h3>Laura &#8211;</h3>
-							<p>Thursday 12pm-8pm &amp; Saturday 2:30pm-7pm</p>
+							<p>Thursday 12pm-8pm &amp; Saturday 9am-2pm</p>
 							<h3>Sofia &#8211;</h3>
-							<p>Monday 11a-5pm &amp; Thursday 9am-3pm</p>
+							<p>Monday 11am-5pm, Wednesday 4:30pm-8pm &amp; Thursday 9am-3pm</p>
 							
 		 					<hr />
 		 					<h3>Now Hiring</h3>
