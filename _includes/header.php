@@ -29,7 +29,10 @@
         		<ul class="dropdown-menu">
         			<li><a href="/news-cstyles-barber-spa/">All News</a></li>
         			<li class="divider"></li>
-        			<li><a href="http://abc.go.com/shows/celebrity-wife-swap/episode-guide/season-03/301-daniel-baldwinjermaine-jackson" target="_blank">ABC Celebrity Wife Swap</a></li>
+        			<li><a href="/news-cstyles-barber-spa/San-Fernando-Valley-Business-Journal-2015/">San Fernando Valley Business Journal</a></li>
+                    <li><a href="/news-cstyles-barber-spa/Best-of-Valley-Village-Award-2014/">Best of Valley Village Award</a></li>
+                    <li><a href="/news-cstyles-barber-spa/BestGentleman-The-Barber-Review-2012/">BestGentleman - The Barber Review</a></li>
+                    <li><a href="http://abc.go.com/shows/celebrity-wife-swap/episode-guide/season-03/301-daniel-baldwinjermaine-jackson" target="_blank">ABC Celebrity Wife Swap</a></li>
         		</ul>
         	</li>
         	<li><a href="/about-cstyles-barber-spa/">About</a></li>
