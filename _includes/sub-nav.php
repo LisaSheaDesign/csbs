@@ -9,9 +9,6 @@
 
 <ul class="subNav-addLinks">
 <li><a href="/contact-cstyles-barber-spa/">Now Hiring</a></li>
-<li>(818)766-7900</li>
+<li><a class="onlineBookBtn" href="http://99.19.209.226/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a></li>
 </ul>
 </div>
-<?php
-// <a class="onlineBookBtn" href="http://99.19.209.226/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a>
-?>

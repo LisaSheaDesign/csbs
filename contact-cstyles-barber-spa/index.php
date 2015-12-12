@@ -33,44 +33,18 @@
 				<section class="contactPage">
 					<h1>Contact</h1>
 					<article>
-							<h3>Christopher Styles Barber Spa is Renovating!</h3>
-							<p>We will temporarily continue our services starting Monday, November 2, at Sola Salon Studio. Check the Event section below for barber schedule.</p>
-		 					<p>To schedule your appointment Please call (818)766-7900.</p>
-		 					
-		 					<p>Sola Salon Studio<br />
-							15125 Ventura Blvd.<br /> 
-							Sherman Oaks, CA 91403<br />
-							Suite 101, Salon 31<br />
-							*Free Valet Parking with Cstyles Validation</p>
-
-							<p>Due to limited space as well as availability, we will not be accepting walk-ins. Please call (818)766-7900 to schedule your appointment. If your barber or stylist is unavailable on a preferred day or time, please call us and specify the day and time; we will do our best to accommodate you.</p>  
-							
-							<h3>Your stylists or barbers schedule at our temporary location is as follows:</h3> 
-
-							<h3>Brent &#8211;</h3>
-							<p>Tuesday 10am-8pm, Wednesday 9am-4pm &amp; Friday 1pm-8pm</p>       
-							<h3>Chris &#8211;</h3>   
-							<p>Wednesday 9am-4pm, Friday 1pm-8pm &amp; Saturday 9am-2pm</p>
-							<h3>Erica &#8211;</h3> 
-							<p>Tuesday 10am-8pm &amp; Wednesday 4:30pm-8pm</p>
-							<h3>Laura &#8211;</h3>
-							<p>Thursday 12pm-8pm &amp; Saturday 9am-2pm</p>
-							<h3>Sofia &#8211;</h3>
-							<p>Monday 11am-5pm, Wednesday 4:30pm-8pm &amp; Thursday 9am-3pm</p>
-							
-		 					<hr />
-		 					<h3>Now Hiring</h3>
-								<p><strong><em>Barbers/Stylist</em><br />Contact:</strong>  <a href="mailto:CstylesBarberspa@gmail.com">CstylesBarberspa@gmail.com</a></p>
-								<hr />
-							<h3>Christopher Styles Barber Spa</h3>
-							<p>818-766-7900</p>
-							<p>4815 Whitsett Ave</p>
-							<p>Valley Village CA 91607</p>
-							<p><span>mon 11-5, tues-fri 9-8<br />sat 9-7, sun 11-5</span></p>
-							<p>(Plenty of Parking)</p>
-							<p><a href="mailto:info@CStylesBarberSpa.com">info@CStylesBarberSpa.com</a></p>
-						</article>
-					</section>
+	 					<h3>Now Hiring</h3>
+							<p><strong><em>Barbers/Stylist</em><br />Contact:</strong>  <a href="mailto:CstylesBarberspa@gmail.com">CstylesBarberspa@gmail.com</a></p>
+							<hr />
+						<h3>Christopher Styles Barber Spa</h3>
+						<p>818-766-7900</p>
+						<p>4815 Whitsett Ave</p>
+						<p>Valley Village CA 91607</p>
+						<p><span>mon 11-5, tues-fri 9-8<br />sat 9-7, sun 11-5</span></p>
+						<p>(Plenty of Parking)</p>
+						<p><a href="mailto:info@CStylesBarberSpa.com">info@CStylesBarberSpa.com</a></p>
+					</article>
+				</section>
 			</div><!-- #contentWrap -->
 		<div class="push"></div>
 			</div><!-- #wrapper -->

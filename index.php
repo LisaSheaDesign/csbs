@@ -49,7 +49,7 @@
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner">
 			    <div class="item active">
-			       <img src="_img/cs-homeSlide-13.jpg" alt="Chris Styles Barber Spa temporary relocation">
+			       <img src="_img/cs-homeSlide-14.jpg" alt="Chris Styles Barber Spa We are Back Dec 14">
 				</div><!-- item -->
 				<div class="item">
 			       <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-9.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
@@ -108,12 +108,9 @@
 					<article class="row">
 					<div class="col-md-4">
 					  	<div class="bookNowBox">
-					  		<?php
-								//<!-- <p><strong>Online Booking Is Now Available!</strong> On your next visit ask the front desk for your Login ID and Password.</p><a class="onlineBookBtn" href="http://99.19.209.226/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a></div> -->
-							?>
-					  		<p>We will temporarily continue our services starting Monday, November 2, at Sola Salon Studio. Check the Event section below for stylists or barbers schedule.</p><strong>To schedule your appointment Please call (818)766-7900.</strong> </div>
-					  	</div>
-					  	<div class="col-md-8 byLine"><p><span>Christopher Styles Barber Spa</span> <em>is an upscale barbershop that blends old school barbering traditions and styling with a modern twist. The integration of technology and luxury provide the perfect place for you to come relax, hang out and refine your appearance. The staff is well diverse in providing cuts for a multi-ethnic clientele; consistently educating themselves with new trends and styles to create the perfect look for you. This full service barber spa not only offers expert cuts and fades, but also straight razor shaves, color services, manicures and pedicures. You can expect more than just a cut, you can expect to feel and look the way a modern lady and gentlemen should.</em></p></div>
+					  		<p><strong>Online Booking Is Now Available!</strong> On your next visit ask the front desk for your Login ID &amp; Password.</p><a class="onlineBookBtn" href="http://99.19.209.226/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a></div>
+							</div>
+					  	<div class="col-md-8 byLine"><p><span>Christopher Styles Barber Spa</span> <em>is an upscale barbershop that blends old school barbering traditions &amp; styling with a modern twist. The integration of technology &amp; luxury provide the perfect place for you to come relax, hang out &amp; refine your appearance. The staff is well diverse in providing cuts for a multi-ethnic clientele; consistently educating themselves with new trends &amp; styles to create the perfect look for you. This full service barber spa not only offers expert cuts &amp; fades, but also straight razor shaves, color services, manicures &amp; pedicures. You can expect more than just a cut, you can expect to feel &amp; look the way a modern lady &amp; gentlemen should.</em></p></div>
 					<div class="moreBtn">more</div>
 					</article>
 				</section>
@@ -121,33 +118,10 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<h3>Christopher Styles Barber Spa is Renovating!</h3> 
-							<p>Christopher Styles Barber Spa will be undergoing extensive re-construction and remodeling  due to the incident that occurred on September 3rd.</P>
-							<p>We will be relocating starting Monday, November 2, 2015 and we are expecting to reopen within 4 weeks. We will notify you of the exact date of our reopening 1 week prior to the date.</p>
-							<p>We will temporarily continue our services starting Monday, November 2, at the new location below:</p>
+							<h3>We are Back!!! Monday Dec. 14th</h3> 
+							<p>Come celebrate with us &amp; receive 50% Off Haircuts Monday, December 14th Thru December 24th</p>
 
-							<p>Sola Salon Studio<br />
-							15125 Ventura Blvd.<br /> 
-							Sherman Oaks, CA 91403<br />
-							Suite 101, Salon 31<br />
-							*Free Valet Parking with Cstyles Validation</p>
-
-							<p>Due to limited space as well as availability, we will not be accepting walk-ins. Please call (818)766-7900 to schedule your appointment. If your barber or stylist is unavailable on a preferred day or time, please call us and specify the day and time; we will do our best to accommodate you.</p>  
-
-							<h3>Your stylists or barbers schedule at our temporary location is as follows:</h3> 
-
-							<h3>Brent &#8211;</h3>
-							<p>Tuesday 10am-8pm, Wednesday 9am-4pm &amp; Friday 1pm-8pm</p>       
-							<h3>Chris &#8211;</h3>   
-							<p>Wednesday 9am-4pm, Friday 1pm-8pm &amp; Saturday 9am-2pm</p>
-							<h3>Erica &#8211;</h3> 
-							<p>Tuesday 10am-8pm &amp; Wednesday 4:30pm-8pm</p>
-							<h3>Laura &#8211;</h3>
-							<p>Thursday 12pm-8pm &amp; Saturday 9am-2pm</p>
-							<h3>Sofia &#8211;</h3>
-							<p>Monday 11am-5pm, Wednesday 4:30pm-8pm &amp; Thursday 9am-3pm</p>
-
-							<p>Thank you for your continued support and cooperation; If you have any questions or concerns, please feel free to give us a call at (818)766-7900.</p>
+							<p><strong>Holiday Raffle*</strong> We are also giving out a brand new, Sony PS4 to one of our Clients! *Enter to win inside the shop between Monday, Dec. 14 thru Dec. 24 &amp; you could be the lucky Winner!!!</p>
 							<h3>Road Construction on Whitsett Ave</h3>
 							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
 							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>
@@ -156,8 +130,11 @@
 						<article class="col-md-6 padding promo">
 							<h2>Promotion<span>+</span></h2>
 							<div class="promoBox">
-								<h3>Supporting our local baseball teams and high schools</h3>
-								<p>10% OFF Local High School Students and SOLL players</p> 
+								<h3>We are Back!!!</h3>
+								<p>50% Off Haircuts &amp; enter to win a Sony PS4, Holiday Raffle available inside shop Monday, December 14th Thru December 24th</p>
+								<hr>
+								<h3>Supporting our local baseball teams &amp; high schools</h3>
+								<p>10% OFF Local High School Students &amp; SOLL players</p> 
 								<hr>
 								<h3>Specials</h3>
 								<p>10% off Retail with every package purchase! Ask front desk about packages that we offer on your next visit.</p>
