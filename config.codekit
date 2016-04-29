@@ -251,6 +251,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_img\/cs-homeSlide-15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64451,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-15.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_img\/cs-homeSlide-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -339,6 +350,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_img\/cs-homeSlide-v1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131821,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-v1.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-v1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103896,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-v2.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-v3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127654,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-v3.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-v3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-v4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120221,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-v4.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-v4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-v5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158020,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-v5.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-v5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cs-homeSlide-v6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125446,
+		"inputAbbreviatedPath": "\/_img\/cs-homeSlide-v6.jpg",
+		"outputAbbreviatedPath": "\/_img\/cs-homeSlide-v6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_img\/cs-wifeSwap.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -423,6 +500,17 @@
 		"initialSize": 311693,
 		"inputAbbreviatedPath": "\/_img\/cstylesLogo2b.png",
 		"outputAbbreviatedPath": "\/_img\/cstylesLogo2b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_img\/cstylesLogo3b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68725,
+		"inputAbbreviatedPath": "\/_img\/cstylesLogo3b.jpg",
+		"outputAbbreviatedPath": "\/_img\/cstylesLogo3b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

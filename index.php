@@ -48,33 +48,36 @@
 			
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner">
-			    <div class="item active">
-			       <img src="_img/cs-homeSlide-14.jpg" alt="Chris Styles Barber Spa We are Back Dec 14">
-				</div><!-- item -->
-				<div class="item">
-			       <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-9.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
-				</div><!-- item -->
-			    <div class="item">
-			       <a href="*" data-toggle="modal" data-target="#myModal"><img src="_img/cs-homeSlide-3.jpg" alt="C-Styles Barber Spa Commercial"></a>
-				</div><!-- item -->
-			    <div class="item">
-			      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-10.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
-			    </div><!-- item -->
-			    <div class="item">
-			      <img src="_img/cs-homeSlide-6.jpg" alt="Chris Styles Barber Spa">
-			    </div><!-- item -->
-			    <div class="item">
-			      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-11.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
-			    </div><!-- item -->
-			    <div class="item">
-			      <img src="_img/cs-homeSlide-8.jpg" alt="Chris Styles Barber Spa">
-				</div><!-- item -->
-				 <div class="item">
-			      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-12.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
-			    </div><!-- item -->
-			    <div class="item">
-			      <img src="_img/cs-homeSlide-7.jpg" alt="Chris Styles Barber Spa">
-				</div><!-- item -->
+				  <div class="item active">
+				       <img src="_img/cs-homeSlide-v1.jpg" alt="Chris Styles Barber Spa">
+					</div><!-- item -->
+					 <div class="item">
+				       <img src="_img/cs-homeSlide-v2.jpg" alt="Chris Styles Barber Spa">
+					</div><!-- item -->
+					 <div class="item">
+				       <a href="*" data-toggle="modal" data-target="#myModal"><img src="_img/cs-homeSlide-v6.jpg" alt="C-Styles Barber Spa Commercial"></a>
+						</div><!-- item -->
+				    <div class="item">
+				       <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-9.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
+						</div><!-- item -->
+				   <div class="item">
+				      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-10.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
+				    </div><!-- item -->
+				    <div class="item">
+				      <img src="_img/cs-homeSlide-v3.jpg" alt="Chris Styles Barber Spa">
+				    </div><!-- item -->
+				    <div class="item">
+				      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-11.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
+				    </div><!-- item -->
+				    <div class="item">
+				      <img src="_img/cs-homeSlide-v4.jpg" alt="Chris Styles Barber Spa">
+					</div><!-- item -->
+					 <div class="item">
+				      <a href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"><img src="_img/cs-homeSlide-12.jpg" alt="Chris Styles Barber Spa on Yelp"></a>
+				    </div><!-- item -->
+				    <div class="item">
+				      <img src="_img/cs-homeSlide-v5.jpg" alt="Chris Styles Barber Spa">
+					</div><!-- item -->
 			  </div> <!-- carousel-inner END -->
 			</div> <!-- carousel-example-generic END -->
 			<!-- slideShow END -->
@@ -108,9 +111,10 @@
 					<article class="row">
 					<div class="col-md-4">
 					  	<div class="bookNowBox">
-					  		<p><strong>Online Booking Is Now Available!</strong> On your next visit ask the front desk for your Login ID &amp; Password.</p><a class="onlineBookBtn" href="http://99.19.209.226/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a></div>
-							</div>
-					  	<div class="col-md-8 byLine"><p><span>Christopher Styles Barber Spa</span> <em>is an upscale barbershop that blends old school barbering traditions &amp; styling with a modern twist. The integration of technology &amp; luxury provide the perfect place for you to come relax, hang out &amp; refine your appearance. The staff is well diverse in providing cuts for a multi-ethnic clientele; consistently educating themselves with new trends &amp; styles to create the perfect look for you. This full service barber spa not only offers expert cuts &amp; fades, but also straight razor shaves, color services, manicures &amp; pedicures. You can expect more than just a cut, you can expect to feel &amp; look the way a modern lady &amp; gentlemen should.</em></p></div>
+					  		<p><strong>Online Booking Is Now Available!</strong> On your next visit ask the front desk for your Login ID &amp; Password.</p><a class="onlineBookBtn" href="http://24.43.71.26:5000/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a>
+					  	</div>
+					</div>
+					  	<div class="col-md-8 byLine"><p><span>Christopher Styles Barber Spa</span> <em>is a modern and upscale barbershop prominently serving Valley Village and neighboring communities for over three years. In this short time span, Christopher Styles Barber Spa has distinguished itself as the go-to shop for haircuts. The staff is expertly trained at providing a variety of haircut styles for a diverse clientele, ranging from traditional to modern chic. Nonetheless, our barbers and stylists constantly seek out opportunities to further educate themselves on emerging trends and styles. As a full service barber spa, we also offer styling, color services, straight razor shaves, manicures, spa pedicures, as well as some popular hair styling products. Regardless of what you come in for, you can immerse yourself in a welcoming and relaxing atmosphere while we create your perfect look.</em></p></div>
 					<div class="moreBtn">more</div>
 					</article>
 				</section>
@@ -118,10 +122,6 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<h3>We are Back!!! Monday Dec. 14th</h3> 
-							<p>Come celebrate with us &amp; receive 50% Off Haircuts Monday, December 14th Thru December 24th</p>
-
-							<p><strong>Holiday Raffle*</strong> We are also giving out a brand new, Sony PS4 to one of our Clients! *Enter to win inside the shop between Monday, Dec. 14 thru Dec. 24 &amp; you could be the lucky Winner!!!</p>
 							<h3>Road Construction on Whitsett Ave</h3>
 							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
 							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>
@@ -130,16 +130,13 @@
 						<article class="col-md-6 padding promo">
 							<h2>Promotion<span>+</span></h2>
 							<div class="promoBox">
-								<h3>We are Back!!!</h3>
-								<p>50% Off Haircuts &amp; enter to win a Sony PS4, Holiday Raffle available inside shop Monday, December 14th Thru December 24th</p>
-								<hr>
 								<h3>Supporting our local baseball teams &amp; high schools</h3>
 								<p>10% OFF Local High School Students &amp; SOLL players</p> 
 								<hr>
 								<h3>Specials</h3>
 								<p>10% off Retail with every package purchase! Ask front desk about packages that we offer on your next visit.</p>
 								<p>30% off for Senior citizens 65+</p>
-								<p>LOCKS of LOVE! Free cut when you donate your hair for a good cause. Must be at least 10 inches</p>
+								<p>&quot;Wigs for Kids&quot; Free cut when you donate your hair for a good cause. Must be at least 10 inches</p>
 							</div>
 						</article> <!-- promo END -->
 					</div> <!-- row END -->
@@ -163,7 +160,7 @@
 							<h2>Like Us on FACEBOOK<span>+</span></h2>
 							<div class="facebookBox">
 								<div id ="fbDesktop" class="fb-like-box" data-href="http://www.facebook.com/ChristopherStylesBarberSpa" data-width="370" data-show-faces="true" data-stream="true" data-header="true"></div>
-								<p class="FBwarning" >Plaese <a href="https://www.facebook.com/" target="_blank">LOGIN</a> to your Facebook to see posts</p>
+								<p class="FBwarning" >Please <a href="https://www.facebook.com/" target="_blank">LOGIN</a> to your Facebook to see posts</p>
 							</div>
 						</article> <!-- facebookBox END -->
 					</div> <!-- row END -->

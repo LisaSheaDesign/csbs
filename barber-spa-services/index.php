@@ -65,7 +65,7 @@
 			<h2>MAN-icures &amp; Pedicures</h2>
 			<p>Nail treatment for kids, ladies & gentlemen.</p>
 			<h3>MAN-icures / <span>starts at $10</span></h3>
-			<h3>Pedicures / <span>starts at $15</span></h3>
+			<h3>Pedicures / <span>starts at $25</span></h3>
 				<hr />
 				<p>Call the shop to ask about other services we offer such as color/highlights, blowdrys, and hair designs that are not available through Online Booking.</p>
 		</section>

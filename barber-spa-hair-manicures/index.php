@@ -36,7 +36,7 @@
 						<p>In our full service MAN-icure your hands are soaked and sanitized. Cuticles are pushed back and nails are clipped and shaped. To finish you can choose clear polish or buffing. Enjoy this stress relieving hand treatment and transport yourself into a relaxing paradise.</p>
 					</div>
 					<h3>MAN-icures / <span>starts at $10</span></h3>
-					<h3>Pedicures / <span>starts at $15</span></h3>
+					<h3>Pedicures / <span>starts at $25</span></h3>
 					<p>Service is available for men, women and children.</p>
 					<hr />
 				<p>Call the shop to ask about other services we offer such as color/highlights, blowdrys, and hair designs that are not available through Online Booking.

@@ -7,7 +7,7 @@
       </button>
      <!--  <div class="logoHeader">Logo</div>  -->
     </div>
-       <div class="logoHeader"><a href="/"><img src="http://cstylesbarberspa.com/_img/cstylesLogo2b.png" class="img-responsive" alt="Christopher Styles Barber Spa"></a></div>    
+       <div class="logoHeader"><a href="/"><img src="http://cstylesbarberspa.com/_img/cstylesLogo3b.jpg" class="img-responsive" alt="Christopher Styles Barber Spa"></a></div>    
 <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
 <ul class="nav navbar-nav">
         	<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="servicesLink">Services <span class="caret"></span></a>
