@@ -89,7 +89,7 @@
 			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 			      </div>
 			      <div class="modal-body video-container">
-			       <iframe width="560" height="315" src="//www.youtube.com/embed/yP7ouGWeFwc?rel=0" frameborder="0" allowfullscreen></iframe>
+			       <iframe width="560" height="315" src="//www.youtube.com/embed/CxIynBXgITk?rel=0" frameborder="0" allowfullscreen></iframe>
 			      </div>
 			      </div>
 			  </div>

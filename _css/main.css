@@ -233,11 +233,11 @@ header .dropdown-menu {text-transform:uppercase;}
 header .nav > li > a {
 	color:#E7E7E7; 
 	font-size:14px;
-	padding:5px 10px; 
+	padding:10px 10px 5px; 
 	text-transform:uppercase;
 }
 
-header .nav.navbar-nav.navbar-right > li > a {padding:5px 12px;}
+header .nav.navbar-nav.navbar-right > li > a {padding:10px 12px 5px;}
 
 header .nav > li > a:hover, header .nav > li > a:focus,
 header .nav .open > a, .nav .open > a:hover, header .nav .open > a:focus {background:#2E1A1D;}
