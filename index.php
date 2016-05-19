@@ -111,9 +111,8 @@
 					<article class="row">
 					<div class="col-md-4">
 					  	<div class="bookNowBox">
-					  		<p><strong>Online Booking Is Now Available!</strong> On your next visit ask the front desk for your Login ID &amp; Password.</p><a class="onlineBookBtn" href="http://24.43.71.26:5000/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a>
-					  	</div>
-					</div>
+					  		<p><strong>Online booking is not available at this time.</strong>Please book by calling<br /> 818-766-7900</p></div>
+						</div>
 					  	<div class="col-md-8 byLine"><p><span>Christopher Styles Barber Spa</span> <em>is a modern and upscale barbershop prominently serving Valley Village and neighboring communities for over three years. In this short time span, Christopher Styles Barber Spa has distinguished itself as the go-to shop for haircuts. The staff is expertly trained at providing a variety of haircut styles for a diverse clientele, ranging from traditional to modern chic. Nonetheless, our barbers and stylists constantly seek out opportunities to further educate themselves on emerging trends and styles. As a full service barber spa, we also offer styling, color services, straight razor shaves, manicures, spa pedicures, as well as some popular hair styling products. Regardless of what you come in for, you can immerse yourself in a welcoming and relaxing atmosphere while we create your perfect look.</em></p></div>
 					<div class="moreBtn">more</div>
 					</article>
@@ -122,6 +121,9 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
+							<h3>Memorial Day - closed Monday 30th</h3>
+							<p>Please make appointments in advance.</p>
+							<hr />
 							<h3>Road Construction on Whitsett Ave</h3>
 							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
 							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>

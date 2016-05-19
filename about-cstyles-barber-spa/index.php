@@ -34,9 +34,10 @@
 					
 					<div class="media">
 						<div class="pull-left sideImg">
-							<img class="media-object" src="http:../_img/csbs-frontHouse.jpg" alt="Christopher Styles Barber Spa">
-							<img class="media-object" src="http:../_img/csbs-backHouse.jpg" alt="Christopher Styles Barber Spa">
-							<img class="media-object" src="http:../_img/csbs-barberChairs.jpg" alt="Christopher Styles Barber Spa">
+							<img class="media-object" src="http:../_img/cs-homeSlide-v1.jpg" alt="Christopher Styles Barber Spa">
+							<img class="media-object" src="http:../_img/cs-homeSlide-v4.jpg" alt="Christopher Styles Barber Spa">
+							<img class="media-object" src="http:../_img/cs-homeSlide-v2.jpg" alt="Christopher Styles Barber Spa">
+							<img class="media-object" src="http:../_img/cs-homeSlide-v3.jpg" alt="Christopher Styles Barber Spa">
 						</div>
 						<div class="media-body">
 							<p>Monday, October 8th, 2012 in Valley Village, CA Christopher Styles Barber Spa was proud to announce their first day in business as a Modern Barber Shop. In two months of its opening, this hard working diverse staff has received a five star yelp rating. Receiving high recommendations from dedicated, long-term, and new clients this barbershop has served the community in cutting and styling over 700 clients and it continues to grow today.</p>
