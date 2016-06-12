@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<meta name="description" content="Christopher Styles Barber Spa is created to provide the modern gentleman a sanctuary. An oasis where you can come relax, hang out and refine your appearance. Our full service barbershop not only offers expert cuts and fades, but also straight razor face shaves, color services and MAN-icures. When you step into this elegant refuge, you can expect more than just a cut, you can expect to feel and look the way a modern man or woman should.">
 	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City ">
 	<meta name="author" content="Christopher Styles Barber Spa">
 	<meta charset="utf-8" />
 	<title>Barber Shop Spa - Cuts, Shaves, Hair Color, &amp; MAN-icures - Christopher Styles Barber Spa</title>
-		
+
 		<!-- Bootstrap -->
     <link href="_css/bootstrap.min.css" rel="stylesheet">
 
@@ -26,7 +26,7 @@
 </head>
 <body>
 		<div id="wrapper" class="container">
-		
+
 			<header><?php require("_includes/header.php"); ?>
 			</header><!-- #header -->
 				<!-- <?php require("_includes/sub-nav.php"); ?> -->
@@ -45,7 +45,7 @@
 			    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
 			    <li data-target="#carousel-example-generic" data-slide-to="8"></li>
 			  </ol>
-			
+
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner">
 				  <div class="item active">
@@ -121,7 +121,7 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<h3>Memorial Day - closed Monday 30th</h3>
+							<h3>Staff Appreication Day - closed Monday June 20th</h3>
 							<p>Please make appointments in advance.</p>
 							<hr />
 							<h3>Road Construction on Whitsett Ave</h3>
@@ -133,7 +133,7 @@
 							<h2>Promotion<span>+</span></h2>
 							<div class="promoBox">
 								<h3>Supporting our local baseball teams &amp; high schools</h3>
-								<p>10% OFF Local High School Students &amp; SOLL players</p> 
+								<p>10% OFF Local High School Students &amp; SOLL players</p>
 								<hr>
 								<h3>Specials</h3>
 								<p>10% off Retail with every package purchase! Ask front desk about packages that we offer on your next visit.</p>
@@ -167,17 +167,17 @@
 						</article> <!-- facebookBox END -->
 					</div> <!-- row END -->
 				</section> <!-- socialInfo END -->
-				
-				
-				
+
+
+
 		</div><!-- #contentWrap -->
 		<div class="push"></div>
 			</div><!-- #wrapper -->
-		
+
 			<footer><?php require("_includes/footer.php"); ?></footer>
-		
-	
-	
+
+
+
 	<!-- Script Social -->
 	<script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -192,7 +192,7 @@
 
 
 	<!-- Script -->
-	
+
 	<script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -206,7 +206,7 @@
   })();
 
 </script>
-	
+
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script  type="text/javascript" src="_js/script.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
