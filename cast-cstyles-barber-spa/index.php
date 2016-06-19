@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
+
 	<meta name="description" content="Christopher Styles Barber Spa is created to provide the modern gentleman a sanctuary. An oasis where you can come relax, hang out and refine your appearance. Our full service barbershop not only offers expert cuts and fades, but also straight razor face shaves, color services and MAN-icures. When you step into this elegant refuge, you can expect more than just a cut, you can expect to feel and look the way a modern man or woman should.">
 	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City ">
 	<meta name="author" content="Christopher Styles Barber Spa">
@@ -25,7 +25,7 @@
 	</head>
 	<body>
 		<div id="wrapper" class="container">
-		
+
 			<header><?php require("../_includes/header.php"); ?>
 			</header><!-- #header -->
 				 <?php require("../_includes/sub-nav.php"); ?>
@@ -40,8 +40,11 @@
 					    <img class="media-object" src="../_img/cast_EPyles-v2.jpg" title="Hairstylist: Erica Pyles" alt="Hairstylist: Erica Pyles" />
 					  </div>
 					  <div class="media-body">
-					    <h3 class="media-heading">Erica Pyles</h3>
-					    <p>Hi my name is Erica Pyles, I am originally from San Diego county where I was a full time job as a stylist for 7 years. I was ready for new experiences and adventures in my life so I moved out here to the lovely city of LA! I found a great fit here at Christopher Styles Barber Spa.I specialize in styling, cutting, and coloring women hair and I love it! I also cut and style men long and short hair. I am here to help style you to perfection. I look forward to meeting you!</p>
+					    <h3 class="media-heading">Erica Pyles - Lead Stylist</h3>
+					    <p>Erica began her career as a stylist on January 2006 in Oceanside, California. She joined Christopher Styles Barber Spa when it first opened in October of 2012. She now has over ten years of experience but is constantly on the lookout for new and different classes that update and improve her knowledge and techniques on cutting, coloring, and styling. Her love of the trade is based on exercising her creativity and being able to make clients feel good about themselves through it. Aside from men and women's haircuts, some popular requests Erica receives include chemical relaxers and color.<p>
+							<p>Erica tackles her workplace challenges with a head on mentality. She lets her clients know when something is possible, when it will work best, and what won't work. Erica is known to be a very active person. She loves paddle boarding, demolishes at bowling, and is known for being up for any outdoorsy adventures. Erica's clients know her to be creative, funny, and reliable. At the shop, we know her to be extremely talented and always on to the next thing!</p>
+							<p>Random Fact about Erica: For many years, Erica was gymnast working toward the Olympics but ultimately decided to part ways with the sport and moved on to competitive hip hop dancing.</p>
+							<p>Erica's Hair Tip: Lemons can give your  hair a sun kissed natural highlight look without damage.</p>
 					 </div>
 					</div> <!-- media END -->
 					<div class="media">
@@ -49,8 +52,9 @@
 					    <img class="media-object" src="../_img/cast_BJones-v2.jpg" title="Hairstylist: Brent Jones" alt="Hairstylist: Brent Jones" />
 					  </div>
 					  <div class="media-body">
-					    <h3 class="media-heading">Brent Jones</h3>
-					    <p>I started honing in on my skills as a barber at the age of 10 when I was given a pair of clippers by my mom. Soon after that I was noticed by those around me; I started to not only cut my own hair but friends, family, neighbors and classmates. I studied barbering at Cutting Edge Hair Styling Academy in Kansas City, Kansas. Professionally, I worked at Debonair's Barber Shop in Topeka, Kansas with three other master barbers who had over 20 years experience. I moved to LA to pursue acting  and was a barber for my day job, Skills were noticed by Master Barber Christopher Hird and I soon became on board as the lead barber at Christopher Styles Barber Shop.</p>
+					    <h3 class="media-heading">Brent Jones - Master Barber</h3>
+					    <p>When Brent was 10 years old, his mother handed him a pair of clippers. What he did with them garnered the attention of those around him. With his quickly developing cutting skills, Brent decided to enroll at Cutting Edge Hair Styling Academy in Kansas City. When he eventually moved to Los Angeles, his barbering skills caught the eye of Christopher Hird. He soon after joined Christopher Styles Barber Shop.</p>
+							<p>Today, Brent is the shop's modern day Renaissance man. He continually exercises his artistic abilities through painting, music, acting, and barbering. When Brent is in the shop, there is always a lively discussion happening at his station. His clients keep him busy and in high demand. He is known for his amazing fades, shaves, and uncanny ability for styling. While you'll likely find Brent laughing and singing around the shop, his hair designs and highly detailed face shaves reveal a talent for focused precision and not to mention a serious work ethic. Brent is constantly rising to new creative challenges and hopes to continue exceeding expectations by giving clients a look they didn't imagine was possible for them.</p>
 					</div>
 					</div> <!-- media END -->
 					<div class="media">
@@ -58,8 +62,13 @@
 					    <img class="media-object" src="../_img/cast_Sofia-v2.jpg" title="Hairstylist: Sofia Gomez" alt="Hairstylist: Sofia Gomez" />
 					  </div>
 					  <div class="media-body">
-					    <h3 class="media-heading">Sofia Gomez</h3>
-					    <p>Hi, my name is Sofia Gomez! I am a native valley girl, raised in Valley Village CA, and proud to join the talented Cstyles team. The desire to help people look and feel their best is my passion. The ability to use my creative and artistic skills are what drew me into the beauty industry and continues to keep me in love and thriving. I have seven years experience with styling both men and women hair. I provide high quality cutting and coloring for both men and women. I work with natural hair colors to bright vivid bold colors; from long luxurious women cuts to skin tight fades for men, and anything in between, the possibilities are endless!</p>
+					    <h3 class="media-heading">Sofia Gomez - Stylist</h3>
+					    <p>SSofia started her path to become a stylist at a Cut in Time in Woodland Hills in 2007 while also attending cosmetology school. For seven years, she juggled being the shop's full time receptionist, assistant, and manager during the day while fitting in her own clients after closing hours.</p>
+							<p>Sofia's incessant motivation to pursue the art of hairstyling originates from her desire to make people feel good about themselves. When people look good, they feel good! She loves watching her clients fall in love with themselves again. She believes that liking the way you look is not about vanity but about loving one's self and being comfortable within our own mind and body.</p>
+							<p>While most of the time you'll find Sofia doing a variety of fades, simple businessmen cuts, and gentlemen's undercut styles, her specialties also include women's cuts and color! She dreams of one day becoming a traveling hair colorist and haircutting educational trainer to help the next generation of students and current stylists learn more. However, at the end of the day, she enjoys the intimacy of working behind a chair, one on one with her clients.</p>
+							<p>When Sofia isn't at the shop, she is working towards earning a bachelor's degree. She also attends hair training certification courses to further her skills and career. In her spare time, she enjoys working out and hanging out with friends and family.</p>
+							<p>Random fact about Sofia: She was born in Argentina.</p>
+							<p>Sofia's Hair Tip: Don't fight your hair. If it's naturally curly, rock your curls! If you have a dominant cowlick, part your hair that way! We fight many obstacles in our days, our hair shouldn't be one of them.</p>
 					</div>
 					</div> <!-- media END -->
 					<div class="media">
@@ -67,8 +76,11 @@
 					    <img class="media-object" src="../_img/cast_LFlores-v2.jpg" title="Hairstylist: Laura Flores" alt="Hairstylist: Laura Flores" />
 					  </div>
 					  <div class="media-body">
-					    <h3 class="media-heading">Laura Flores</h3>
-					    <p>Hi my name is Laura Flores! At a young age I knew I wanted to become a cosmetologist. After getting my high school diploma, I enrolled myself at Marinello schools of beauty. Soon after graduating I became a licensed cosmetologist. After filling a few applications online and not getting any response I went to visit my teachers back at Marinello. I came across a lady who let me know about Christopher styles. Before I knew it, I was working with an amazing professional staff. Come see me, I currently do manicures and pedicures for both men and women!</p>
+					    <h3 class="media-heading">Laura Flores - Stylist</h3>
+					    <p>While Laura is currently the youngest stylist at Christopher Styles Barber Spa, she has been with the shop since its opening in 2012. She has a bountiful knowledge on hair care and styling and constantly sprinkles her clients with helpful hair tips. Among her clients, she is known for her patience and passion for her craft. She loves being able to help her clients feel more confident by transforming their look. Clients frequently request haircuts from the Brad Pitt or David Beckham gallery, but many of her clients eventually choose to trust Laura to provide the haircut that best suits their face shape, hair type, and lifestyle.</p>
+							<p>Laura always continues to educate herself by learning and sharing techniques from stylists within and outside of the shop. When she's not in the shop, she likes to relax outdoors and enjoy nature by going on a jog.</p>
+							<p>Random Fact: As a child, Laura dreamed to have a pet monkey.</p>
+							<p>Laura's Hair Tip: Always use a good quality shampoo and conditioner and rinse with cold water!</p>
 					</div>
 					</div> <!-- media END -->
 					<div class="media">
@@ -76,12 +88,15 @@
 					    <img class="media-object" src="../_img/cast_CStyles-v2.jpg" title="Hairstylist: Christopher Styles" alt="Hairstylist: Christopher Styles" />
 					  </div>
 					  <div class="media-body">
-					    <h3 class="media-heading">Christopher Styles</h3>
-					    <p>Christopher Styles Barber Spa is a dream come true. The concept originated when I opened my first shop at the age of 23. I knew then that I wanted a nice modern shop for men to come relax and feel comfortable while enjoying getting groomed. I enjoyed a manicure from time to time, but didn't feel comfortable going to a nail spa. I thought that there should be a place where men could go, get their nails manicured, and most importantly feel comfortable. In 2005 I developed a plan of action which when implemented would provide such a place.</p>
-						<p>I knew that the time wasn't right to take on such a major ordeal, so I placed the plans in an envelope. In October of 2011 I opened the envelope and felt that the time was perfect to implement this plan. After several months of working on a business plan I presented the plan to my business partner and the hunt for the perfect location began. A future stylist found the location at 4815 Whitsett Avenue in a small shopping center. My dream became reality when we signed the lease on August 1, 2012. And the rest is history. During this journey God opened several doors and God closed several doors. I thank him for the wisdom and guidance that he has granted me during this entire process.</p>
+					    <h3 class="media-heading">Christopher Styles - Owner/Barber</h3>
+					    <p>Chris started on to something amazing when he was just 14 years old. He enjoyed looking great but didn't have money to go to a barber every week so his mother bought him his first set of clippers. He started cutting his own hair and then his friends' hair. By the time he was 16 he was charging $4 per haircut. Chris's professional barbering career began in 1997 in Pine Bluff, Arkansas when he received his Barber Stylist license. Eventually, Chris relocated to California and after years of perfecting his techniques he decided to integrate his natural business acumen and barbering skills and open Christopher Styles Barber Spa in October of 2012.</p>
+							<p>Today, Chris specializes in all men's haircuts and shaves with many of his clients coming in for afros, fades, and straight razor shaves. He loves the fact that he can transform a person right before their eyes within as little as 30 minutes. It's an instant makeover with instant gratification! While clients come to him for his reputation, they return not just because of his proven skills but also because of his relatability and honesty.</p>
+							<p>Chris's ambition always keeps him looking ahead. He aspires to one day open another shop and possibly start a product line. He also hopes to mentor young stylist to become salon owners, platform artists, and overall great stylists within the industry.</p>
+							<p>Random fact about Chris: He has a snack every night right before going to sleep.</p>
+							<p>Hair tip: Don't over shampoo your hair. Shampooing everyday is not necessary as it tends to dry your scalp and hair. Whenever you wash, use a conditioner to replenish your scalp and hair after shampooing it.</p>
 					</div>
 					</div> <!-- media END -->
-					
+
 					<h2>Receptionist</h2>
 					<ul class="recept clearfix">
 						<li><h3>Charmane</h3></li>
@@ -93,9 +108,9 @@
 		</div><!-- #contentWrap -->
 		<div class="push"></div>
 			</div><!-- #wrapper -->
-		
+
 			<footer><?php require("../_includes/footer.php"); ?></footer>
-	
+
 
 
 <!-- Script -->
@@ -113,7 +128,7 @@
   })();
 
 </script>
-	
+
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script  type="text/javascript" src="../_js/script.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
