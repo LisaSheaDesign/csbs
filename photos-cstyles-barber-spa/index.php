@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
+
 	<meta name="description" content="Christopher Styles Barber Spa is created to provide the modern gentleman a sanctuary. An oasis where you can come relax, hang out and refine your appearance. Our full service barbershop not only offers expert cuts and fades, but also straight razor face shaves, color services and MAN-icures. When you step into this elegant refuge, you can expect more than just a cut, you can expect to feel and look the way a modern man or woman should.">
 	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City">
 	<meta name="author" content="Christopher Styles Barber Spa">
@@ -25,18 +25,19 @@
 	</head>
 	<body>
 		<div id="wrapper" class="container">
-		
+
 			<header><?php require("../_includes/header.php"); ?>
 			</header><!-- #header -->
 				 <?php require("../_includes/sub-nav.php"); ?>
 			<div class="contentWrap">
-				<iframe id="iframecode" scrolling="no" frameborder="0" width="100%" src="http://instaembedder.com/gallery.php?username=stylesbarberspa&amp;hashtag=&amp;width=130&amp;cols=6&amp;frame=1&amp;image_border=10&amp;rows=2&amp;cell_margin=5&amp;display_username=0&amp;likes=0&amp;comments=0&amp;date=0&amp;link=0&amp;caption=0&amp;color=gray" style="height: 340px;" onload=""></iframe>
-			</div><!-- #contentWrap -->
+				<br /><br />
+				<a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View Instagram photos</a>
+			</div>
 		<div class="push"></div>
 			</div><!-- #wrapper -->
-		
+
 			<footer><?php require("../_includes/footer.php"); ?></footer>
-	
+
 
 
 <!-- Script -->
@@ -54,7 +55,7 @@
   })();
 
 </script>
-	
+
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script  type="text/javascript" src="../_js/script.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

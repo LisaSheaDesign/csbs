@@ -146,8 +146,8 @@
 					<div class="row followInstagram">
 					<h2>Follow Us on INSTAGRAM<span>+</span></h2>
 					<article class="instagramBox">
-						<iframe id="iframecode" scrolling="no" frameborder="0" width="100%" src="http://instaembedder.com/gallery.php?username=stylesbarberspa&amp;hashtag=&amp;width=130&amp;cols=6&amp;frame=1&amp;image_border=10&amp;rows=2&amp;cell_margin=5&amp;display_username=0&amp;likes=0&amp;comments=0&amp;date=0&amp;link=0&amp;caption=0&amp;color=gray" style="height: 340px;" onload=""></iframe>
-					</article> <!-- InstagramBox END -->
+            <a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View Instagram photos</a>
+          </article> <!-- InstagramBox END -->
 					</div>
 					<div class="row">
 						<article class="col-md-6 followTwitter">
@@ -206,7 +206,6 @@
   })();
 
 </script>
-
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script  type="text/javascript" src="_js/script.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
