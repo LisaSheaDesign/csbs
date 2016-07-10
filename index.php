@@ -122,7 +122,7 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<h3>Staff Appreication Day - closed Monday June 20th</h3>
+							<h3>4th of July - closed Monday July 4th</h3>
 							<p>Please make appointments in advance.</p>
 							<hr />
 							<h3>Road Construction on Whitsett Ave</h3>
