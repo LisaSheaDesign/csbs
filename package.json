@@ -1,0 +1,25 @@
+{
+  "name": "cstylesbarberspa",
+  "version": "1.0.0",
+  "description": "C Styles website with gulp running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LisaSheaDesign/csbs.git"
+  },
+  "author": "Lisa Shea Design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisaSheaDesign/csbs/issues"
+  },
+  "homepage": "https://github.com/LisaSheaDesign/csbs",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4"
+  }
+}
