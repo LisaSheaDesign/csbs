@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
+
 	<meta name="description" content="Christopher Styles Barber Spa is created to provide the modern gentleman a sanctuary. An oasis where you can come relax, hang out and refine your appearance. Our full service barbershop not only offers expert cuts and fades, but also straight razor face shaves, color services and MAN-icures. When you step into this elegant refuge, you can expect more than just a cut, you can expect to feel and look the way a modern man or woman should.">
 	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City ">
 	<meta name="author" content="Christopher Styles Barber Spa">
@@ -25,7 +25,7 @@
 	</head>
 	<body>
 		<div id="wrapper" class="container">
-		
+
 			<header><?php require("../_includes/header.php"); ?>
 			</header><!-- #header -->
 				 <?php require("../_includes/sub-nav.php"); ?>
@@ -36,23 +36,25 @@
 					<p>Our expert colorists are here to provide you with a new look or just to update your look. Times may vary depending on color application and process time. Color consultation is highly recommended. We use Pravana color line. Pravana is a quality, professional line which provides various colors that range from subtle changes to vibrant colors. Our expert colorists have been trained and are here to help you find the ideal look for you.</p>
 					</div>
 					<p>Color consultation is required for color services including highlights.</p>
-					<h3>All over color-one color, one process / <span>Starts at $70+</span></h3>
+					<h3>All Over / <span>Starts at $75+</span></h3>
 					<h3>Each extra ounce of color used / <span>$10</span></h3>
-					<h3>Partial highlights / $85+</h3>
-					<h3>Full highlights / $105+</h3>
-					<h3>Root touch-up / $45</h3>
-					<h3>Men's Gray Coverage / $45</h3>
+					<h3>Partial highlights / $95+</h3>
+					<h3>Full highlights / $115+</h3>
+					<h3>Root touch-up / $55</h3>
+					<h3>Balayage / $150+</h3>
+					<h3>Color Correction / $150 Per Hour</h3>
+					<h3>Men's Gray Coverage / $35</h3>
 					<hr />
 					<p>Call the shop to ask about other services we offer such as color/highlights, blowdrys, and hair designs that are not available through Online Booking.
 					Go to <a href="/barber-spa-services/">All Services</a> page for the complete pricing list.</p>
-					
+
 				</section>
 		</div><!-- #contentWrap -->
 		<div class="push"></div>
 			</div><!-- #wrapper -->
-		
+
 			<footer><?php require("../_includes/footer.php"); ?></footer>
-	
+
 
 
 <!-- Script -->
@@ -69,7 +71,7 @@
   })();
 
 </script>
-	
+
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script  type="text/javascript" src="../_js/script.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

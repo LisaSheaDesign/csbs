@@ -4,7 +4,7 @@
 /* ======================= RESET ======================= */
 
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -18,8 +18,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -30,7 +30,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -70,7 +70,7 @@ header .nav > li > a, header .dropdown-menu, footer, .socialWidgets h2 {font-fam
 	margin-bottom: -215px;
 	min-height:100%;
 	height: auto !important;
-	height: 100%; 
+	height: 100%;
 	position:relative;
 	padding-bottom:30px;
 }
@@ -99,7 +99,7 @@ footer {
 
 .contentWrap.homePage p {width:100%;}
 
-.contentWrap section p {width:85%;}
+.contentWrap section p {width:85%; line-height: 1.25em;}
 
 .contentWrap section > strong, .contentWrap section > p > strong {color:#9D7F81; font-weight:bold;}
 
@@ -113,7 +113,7 @@ hr {
 	border-top: 1px solid #512E32;
 }
 
-img {border: 2px solid #512E32;} 
+img {border: 2px solid #512E32;}
 
 h1 {padding:10px 0; font-size:50px; text-transform:uppercase; border-bottom:1px solid #744248;}
 
@@ -130,7 +130,7 @@ h3 {color: #9D7F81; font-weight: bold; margin-bottom:15px;}
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
-    padding-top: 30px; 
+    padding-top: 30px;
 }
 
 .video-container iframe,
@@ -231,9 +231,9 @@ header .nav {
 header .dropdown-menu {text-transform:uppercase;}
 
 header .nav > li > a {
-	color:#E7E7E7; 
+	color:#E7E7E7;
 	font-size:14px;
-	padding:10px 10px 5px; 
+	padding:10px 10px 5px;
 	text-transform:uppercase;
 }
 
@@ -258,10 +258,10 @@ header .dropdown-menu .divider {
 }
 
 .modal-header .close {margin-top: -14px;}
-	
+
 .close {font-size:25px;}
-	
-.modal-body {border:3px solid #e5e5e5;}	
+
+.modal-body {border:3px solid #e5e5e5;}
 
 .ie8 .navbar-nav.navbar-right {margin-right: -15px;}
 
@@ -270,14 +270,14 @@ header .dropdown-menu .divider {
 
 /* homepage mobile elements */
 
-.moreBtn, .promoPanels h2 span, .socialWidgets h2 span {display:none;}	
+.moreBtn, .promoPanels h2 span, .socialWidgets h2 span {display:none;}
 
 /* pages */
 
-.packagesPage h2, .servicesPage h2, .newsPage h2, .cutPage h2, 
+.packagesPage h2, .servicesPage h2, .newsPage h2, .cutPage h2,
 .shavesPage h2, .colorPage h2, .manicuresPage h2 {margin-bottom:15px;}
 
-.packagesPage hr, .servicesPage hr, .cutPage hr, 
+.packagesPage hr, .servicesPage hr, .cutPage hr,
 .shavesPage hr, .colorPage hr, .manicuresPage hr {border-top:4px double #512E32;}
 
 .castPage img, img.media-object {width:100%; height:auto;}
@@ -300,7 +300,7 @@ header .dropdown-menu .divider {
 
 .castPage .familyImg {margin: 5px 0;}
 
-.castPage .familyImg img {display: block;} 
+.castPage .familyImg img {display: block;}
 
 .contactPage h1, .photoPage h1 {margin-bottom:10px;}
 
@@ -342,7 +342,7 @@ header .dropdown-menu .divider {
 .subNav-addLinks a, .onlineBookBtn {
 	display: inline-block;
 	color:#C7B3B6;
-	font-size:14px; 
+	font-size:14px;
 	padding:8px 10px 6px;
 	border-radius:8px;
 	background:#2E1A1D;
@@ -375,7 +375,7 @@ header .dropdown-menu .divider {
 
 .bookNowBox {
 	font-size:17px;
-	color:#9D7F81; 
+	color:#9D7F81;
 	padding:30px;
 	text-align:center;
 	box-shadow: inset 0px 0px 30px #591A11;
@@ -487,56 +487,56 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 /* ======================= Media Queries ======================= */
 
 @media screen and (max-width:991px) {
-	
+
 	.logoHeader {width:230px;}
-	
+
 	header .nav > li > a {font-size:12px; padding:5px 6px;}
-	
+
 	header .nav.navbar-nav.navbar-right > li > a {padding:5px 8px;}
-	
+
 	 .col-md-3 {float: left;}
-	 
+
 	footer .footCol.footCol1 {width:38%}
-	
+
 	footer .footCol.footCol3 {width:20%}
-	
+
 	footer .nav > li {padding: 0 10px;}
-	
+
 	footer .footInfoCol {width:100%; margin: 0 auto;}
-	
+
 	.byLine {margin-top:10px;}
-	
+
 	.contentWrap section p {width:95%;}
 
 }
 
 
 @media screen and (max-width:400px) {
-		
+
 	.aboutPage .sideImg {display:none;}
-	
+
 	.bookNowBox {font-size:15px; padding:18px 15px;}
-	
+
 	.bookNowBox p {margin:0;}
-	
+
 	.bookNowBox .onlineBookBtn {font-size:20px;}
-	
+
 	.bookNowBox strong {font-size:16px;}
-	
+
 	.socialLinks li {margin-left: 0px;}
-	
+
 	.subNav-addLinks li {margin-right:2px;}
-	
+
 	.subNav-addLinks a {font-size:12px; padding:4px;}
-	
+
 	.castPage .sideImg {padding-bottom: 5px;}
-	
+
 	.castPage .pull-left {float:none !important;}
-	
+
 	.facebookBox iframe[style], .facebookBox .fb_iframe_widget {width: 270px !important;}
-	
+
 	#wrapper {margin-bottom:0;}
-	
+
 	.push, footer {height:auto;}
 
 }
@@ -544,15 +544,15 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 @media screen and (min-width:401px) and (max-width:766px) {
 
 	.moreBtn, .promoPanels h2 span, .socialWidgets h2 span {display:none;}
-	
+
 	.bookNowBox {padding: 30px 90px}
-	
+
 	.bookNowBox .onlineBookBtn {margin-top:0;}
-	
+
 }
 
 @media screen and (max-width:767px) {
-	
+
 	.logoHeader {
 		position: absolute;
 		top:5px;
@@ -567,90 +567,87 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 	header .navbar-toggle .icon-bar+.icon-bar {margin-top:6px;}
 
 	header .nav {border:0;}
-	
+
 	header .navbar-header {border-bottom:2px solid #744248;}
-	
+
 	header .navbar-nav {margin:0;}
-	
+
 	header .navbar-collapse {padding-right:0;}
-	
+
 	header .dropdown-menu > li > a {font-size:12px;}
-	
+
 	footer .footInfoCol, footer .nav {display:none;}
-	
+
 	footer .footLinks {padding-top:0;}
-	
+
 	footer small {font-size:50%;}
-	
+
 	footer {padding:10px;}
-	
+
 	.aboutPage .sideImg {width:180px;}
-	
+
 	.contentWrap section p {width:100%}
-	
+
 	.contentWrap {margin:0 auto; width:90%}
-	
+
 	.contentWrap h1 {font-size:30px;}
-	
+
 	.socialWidgets .col-md-6.padding {padding-left:0;}
-	
+
 	.byLine {
-	padding:10px; 
-	max-height:90px; 
+	padding:10px;
+	max-height:90px;
 	overflow:hidden;
 	-webkit-transition:max-height 2s ease;
 	-moz-transition:max-height 2s ease;
 		transition:max-height 2s ease;
 	}
-	
+
 	.more {max-height:800px;} /* for .byLine */
-	
+
 	.moreBtn {display:block; text-transform:uppercase; position:absolute; bottom:0; right:0; padding:5px; background:#2E1A1D; width:60px; text-align:center;}
-	
+
 	.intro {position:relative;}
 
 	.promoPanels h2 span, .socialWidgets h2 span {display:block;}
-	
+
 	.promoBox, .instagramBox, .twitterBox, .facebookBox {display:none; height:auto; width:100%; margin:0; padding:0 10px; overflow:hidden;}
-	
+
 	.promoPanels h2 span { margin-top:-8px;}
-	
+
 	.socialWidgets h2 span {margin-top:-3px;}
-	
+
 	.promoPanels h2 span, .socialWidgets h2 span {float:right; font-size:30px;}
-	
+
 	.facebookBox {min-height:90px; padding-bottom:10px;}
-	
+
 	#twitterWideget {margin-top:5px;}
-	
+
 	.promoPanels {margin-top:10px;}
 
 	.promoPanels .promoBox h3, .facebookBox .fb_iframe_widget {margin-top:5px;}
-	
+
 	/*
 #wrapper {margin-bottom:-100px;}
-	
+
 	.push, footer {height:100;}
 */
-	
+
 }
 
 @media screen and (min-width: 768px) {
 
 	.carousel-indicators {bottom:5px;}
-	
-	.moreBtn, .promoPanels h2 span, .socialWidgets h2 span {display:none;}		
- 
+
+	.moreBtn, .promoPanels h2 span, .socialWidgets h2 span {display:none;}
+
 }
 
 
 @media screen and (min-width:1200px) {
 
 	.container {width: 960px;}
-	
+
 	.moreBtn, .promoPanels h2 span, .socialWidgets h2 span {display:none;}
-		
+
 }
-
-
-

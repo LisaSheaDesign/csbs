@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
+
 	<meta name="description" content="Christopher Styles Barber Spa is created to provide the modern gentleman a sanctuary. An oasis where you can come relax, hang out and refine your appearance. Our full service barbershop not only offers expert cuts and fades, but also straight razor face shaves, color services and MAN-icures. When you step into this elegant refuge, you can expect more than just a cut, you can expect to feel and look the way a modern man or woman should.">
 	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City ">
 	<meta charset="utf-8" />
@@ -24,7 +24,7 @@
 	</head>
 	<body>
 		<div id="wrapper" class="container">
-		
+
 			<header><?php require("../_includes/header.php"); ?>
 			</header><!-- #header -->
 				 <?php require("../_includes/sub-nav.php"); ?>
@@ -36,20 +36,18 @@
 						</div>
 						<h2>MEN</h2>
 						<p>$5 OFF ANY special package deal for men.</p>
-						<p>The Veteran: Cstyle + Color Camo = $63 Value for $58</p>
-						<p>The Producer: Cstyle + Face Shave = $58 Value for $53</p>
-						<p>The Executive: Cstyle + Face Shave + Manicure = $68 Value for $63</p>
-						<h2>WOMEN</h2>
-						<p>$5 OFF ANY manicure or pedicure with a color service.</p>
+						<p>The Veteran: Cstyle + Color Camo = $65 Value for $60</p>
+						<p>The Producer: Cstyle + Face Shave = $60 Value for $55</p>
+						<p>The Executive: Cstyle + Executive Shave = $75 Value for $70</p>
 						<hr />
 						<img id="productLogos" alt="Products: Paul Mitchell - MENS Department - American Crew - Redken - Pravana brands" src="../_img/CS_productsLogos.jpg" />
 				</section>
 		</div><!-- #contentWrap -->
 		<div class="push"></div>
 			</div><!-- #wrapper -->
-		
+
 			<footer><?php require("../_includes/footer.php"); ?></footer>
-	
+
 
 
 <!-- Script -->
@@ -67,7 +65,7 @@
   })();
 
 </script>
-	
+
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script  type="text/javascript" src="../_js/script.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

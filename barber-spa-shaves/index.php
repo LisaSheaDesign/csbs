@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
+
 	<meta name="description" content="Christopher Styles Barber Spa is created to provide the modern gentleman a sanctuary. An oasis where you can come relax, hang out and refine your appearance. Our full service barbershop not only offers expert cuts and fades, but also straight razor face shaves, color services and MAN-icures. When you step into this elegant refuge, you can expect more than just a cut, you can expect to feel and look the way a modern man or woman should.">
 	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City ">
 	<meta charset="utf-8" />
@@ -24,7 +24,7 @@
 	</head>
 	<body>
 		<div id="wrapper" class="container">
-		
+
 			<header><?php require("../_includes/header.php"); ?>
 			</header><!-- #header -->
 				 <?php require("../_includes/sub-nav.php"); ?>
@@ -34,6 +34,7 @@
 					<div class="callout">
 					<p>Our shave begins with pre-shave oil, a few hot towels and warm lather. Our expert barbers use straight razors and finish with a cooling after shave lotion. This service normally takes about 30 minutes and is great for a special occasion or just a day full of male pampering.</p>
 					</div>
+					<p><strong>Executive Shave / $45</strong> - Enjoy a relaxing 60 minute straight razor face shave using the luxury skin care brand, Arbonne. This shave also includes invigorating lavender infused hot towels and a rejuvenating facial treatment.</p>
 					<p><strong>Head Shave / $30</strong> - A little more than a buzz cut. Smooth head shave using a classic staight razor.</p>
 					<p><strong>Face Shave / $30</strong> - Classic straight razor shave.</p>
 					<p><strong>Half Shave / $30</strong> - This is for the man that doesn’t want all of his facial hair removed but enjoys a close shave with clippers.</p>
@@ -45,9 +46,9 @@
 		</div><!-- #contentWrap -->
 		<div class="push"></div>
 			</div><!-- #wrapper -->
-		
+
 			<footer><?php require("../_includes/footer.php"); ?></footer>
-	
+
 
 
 <!-- Script -->
@@ -65,7 +66,7 @@
 
 </script>
 
-	
+
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script  type="text/javascript" src="../_js/script.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

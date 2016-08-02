@@ -7,7 +7,7 @@
       </button>
      <!--  <div class="logoHeader">Logo</div>  -->
     </div>
-       <div class="logoHeader"><a href="/"><img src="http://cstylesbarberspa.com/_img/cstylesLogo3b.jpg" class="img-responsive" alt="Christopher Styles Barber Spa"></a></div>    
+       <div class="logoHeader"><a href="/"><img src="http://cstylesbarberspa.com/_img/cstylesLogo3b.jpg" class="img-responsive" alt="Christopher Styles Barber Spa"></a></div>
 <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
 <ul class="nav navbar-nav">
         	<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="servicesLink">Services <span class="caret"></span></a>
@@ -17,8 +17,7 @@
         			 <li><a href="/barber-spa-hair-cuts/">Cuts</a></li>
         			 <li><a href="/barber-spa-shaves/">Shaves</a></li>
         			 <li><a href="/barber-spa-hair-color/">Hair Color</a></li>
-        			 <li><a href="/barber-spa-hair-manicures/">MAN-icures &amp; Pedicures</a></li>
-        		</ul>
+        	</ul>
         	</li>
         	<li><a href="/barber-spa-packages/">Packages</a></li>
         	<li><a href="/cast-cstyles-barber-spa/">Cast</a></li>
