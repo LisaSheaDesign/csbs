@@ -19,12 +19,14 @@ gulp.task('hb', function () {
             data: './src/assets/data/**/*.{js,json}'
         }))
         .pipe(gulp.dest('./web'));
+        console.log('work');
 });
 
 //clean out min dir
 gulp.task('clean-css', function() {
   return gulp.src('_css/min/main.min.css')
   .pipe(clean());
+  console.log('clean your fired');
 });
 
 gulp.task('clean-js', function() {
