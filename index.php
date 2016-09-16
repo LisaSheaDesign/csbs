@@ -133,8 +133,8 @@
 						<article class="col-md-6 padding promo">
 							<h2>Promotion<span>+</span></h2>
 							<div class="promoBox">
-								<h3>Supporting our local baseball teams &amp; high schools</h3>
-								<p>10% OFF Local High School Students &amp; SOLL players</p>
+								<h3>Supporting our Local High Schools</h3>
+								<p>10% OFF Local High School Students</p>
 								<hr>
 								<h3>Specials</h3>
 								<p>10% off Retail with every package purchase! Ask front desk about packages that we offer on your next visit.</p>
