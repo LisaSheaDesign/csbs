@@ -1,5 +1,20 @@
 $(document).ready(function () {
 
+  var event = {"show":
+    {
+      "name": "Blues Festival",
+      "band": "Don Ho"
+    }
+
+};
+
+  var eventTemplate = $("#event-template").html(); //source
+  var headerTemplate = Handlebars.compile(eventTemplate); //compile
+
+  $(".event-info").html(headerTemplate(event.show));
+  //console.log(headerTemplate(event.show));
+  //console.log(event.show.band);
+
   $(function(){
       $('.dropdown').hover(function() {
           $(this).addClass('open');

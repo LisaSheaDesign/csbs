@@ -25,11 +25,18 @@
 	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
+
+    <div class="event-info">
+    <script id="event-template" type="text/x-handlebars-template">
+      <h3>Up Coming shows</h3>
+      <p>The show: {{name}}</p>
+      <p>The Artist: {{band}}</p>
+      <hr />
+    </script>
+    </div>
+
 		<div id="wrapper" class="container">
 
-			<script id="entry-template" type="text/x-handlebars-template">
-        {{> header}}
-      </script>
 				<!-- <?php require("_includes/sub-nav.php"); ?> -->
 			<div class="contentWrap homePage">
 			<!-- slideShow -->
@@ -209,10 +216,15 @@
 
 </script>
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
-	<script  type="text/javascript" src="_js/min/script-min.js"></script>
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="_js/bootstrap.min.js"></script>
-</body>
+    <script src="_js/min/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js"></script>
+<!--
+    <script src="/node_modules/handlebars/lib/handlebars.js"></script>
+    <script src="/node_modules/handlebars/lib/handlebars.runtime.js"></script>
+  -->
+  	<script  type="text/javascript" src="_js/min/script.min.js"></script>
+  </body>
 </html>

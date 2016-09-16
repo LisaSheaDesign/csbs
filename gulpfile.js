@@ -7,19 +7,14 @@ var rename = require('gulp-rename');
 var cssmin = require('gulp-cssmin');
 var clean = require('gulp-clean');
 var concat = require('gulp-concat');
-var hb = require('gulp-hb');
+var hb = require('handlebars');
+var hbRuntime = require('handlebars/runtime');
 
 //handlebars
-gulp.task('hb', function () {
-    return gulp
-        .src('./src/{,posts/}*.html')
-        .pipe(hb({
-            partials: './src/assets/partials/**/*.hbs',
-            helpers: './src/assets/helpers/*.js',
-            data: './src/assets/data/**/*.{js,json}'
-        }))
-        .pipe(gulp.dest('./web'));
-        console.log('work');
+gulp.task('compile-templates', function() {
+  gulp.src('_includes/*.hbs')
+    .pipe(hb())
+    //.pipe(hbRuntime())
 });
 
 //clean out min dir
@@ -60,4 +55,4 @@ gulp.task('watch', function() {
   gulp.watch('_js/script.js', ['jsmin']);
 });
 
-gulp.task('default',['jsmin', 'cssmin', 'watch']);
+gulp.task('build',['jsmin', 'cssmin', 'watch']);
