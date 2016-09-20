@@ -2,26 +2,58 @@
 var gulp = require('gulp');
 
 // plugins
-var uglify = require('gulp-uglify');
-var rename = require('gulp-rename');
-var cssmin = require('gulp-cssmin');
-var clean = require('gulp-clean');
-var concat = require('gulp-concat');
-var hb = require('handlebars');
-var hbRuntime = require('handlebars/runtime');
+var uglify = require('gulp-uglify'),
+    rename = require('gulp-rename'),
+    cssmin = require('gulp-cssmin'),
+    clean = require('gulp-clean'),
+    concat = require('gulp-concat'),
+    connect = require('gulp-connect'),
+    handlebars = require('gulp-compile-handlebars');
 
 //handlebars
-gulp.task('compile-templates', function() {
-  gulp.src('_includes/*.hbs')
-    .pipe(hb())
-    //.pipe(hbRuntime())
+gulp.task('handlebars', function() {
+  var event = {"show":
+    {
+      "name": "Rock Festival",
+      "band": "GNR"
+    }
+},
+  options = {
+    batch:['./_includes']
+  }
+
+  var index = function() {
+    gulp.src('./index.hbs')
+    .pipe(handlebars(event.show, options))
+    .pipe(rename('index.html'))
+    .pipe(gulp.dest('./'));
+  }
+
+  var about = function() {
+    gulp.src('about-cstyles-barber-spa/index.hbs')
+    .pipe(handlebars(options))
+    .pipe(rename('index.html'))
+    .pipe(gulp.dest('./about-cstyles-barber-spa'));
+  }
+
+
+var init = function() {
+  index();
+  about();
+}
+  return init();
+
+});
+
+//connect
+gulp.task('connect', function() {
+  connect.server();
 });
 
 //clean out min dir
 gulp.task('clean-css', function() {
   return gulp.src('_css/min/main.min.css')
   .pipe(clean());
-  console.log('clean your fired');
 });
 
 gulp.task('clean-js', function() {
@@ -53,6 +85,7 @@ gulp.task('cssmin', ['clean-css'], function(){
 gulp.task('watch', function() {
   gulp.watch('_css/main.css', ['cssmin']);
   gulp.watch('_js/script.js', ['jsmin']);
+  gulp.watch('../**/*.hbs', ['handlebars']);
 });
 
-gulp.task('build',['jsmin', 'cssmin', 'watch']);
+gulp.task('build',['jsmin', 'cssmin', 'watch', 'connect']);
