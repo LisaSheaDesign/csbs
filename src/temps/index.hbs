@@ -12,7 +12,7 @@
 	<title>Barber Shop Spa - Cuts, Shaves, Hair Color, &amp; MAN-icures - Christopher Styles Barber Spa</title>
 
 		<!-- Bootstrap -->
-    <link href="_css/bootstrap.min.css" rel="stylesheet">
+    <link href="_css/min/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -21,16 +21,13 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
    <!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
-	<link type="text/css" href="_css/main.css" rel="stylesheet" />
+	<link type="text/css" href="_css/min/main.min.css" rel="stylesheet" />
 	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
 		<div id="wrapper" class="container">
-
-			<header><?php require("_includes/header.php"); ?>
-			</header><!-- #header -->
-				<!-- <?php require("_includes/sub-nav.php"); ?> -->
-			<div class="contentWrap homePage">
+		{{> header}}
+    <div class="contentWrap homePage">
 			<!-- slideShow -->
 			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			  <!-- Indicators -->
@@ -122,9 +119,9 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<h3>4th of July - closed Monday July 4th</h3>
-							<p>Please make appointments in advance.</p>
-							<hr />
+              <h3>{{title}}</h3>
+							<p>{{text}}</p>
+              <hr />
 							<h3>Road Construction on Whitsett Ave</h3>
 							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
 							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>
@@ -175,7 +172,7 @@
 		<div class="push"></div>
 			</div><!-- #wrapper -->
 
-			<footer><?php require("_includes/footer.php"); ?></footer>
+			{{> footer}}
 
 
 
@@ -208,7 +205,7 @@
 
 </script>
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
-	<script  type="text/javascript" src="_js/min/script-min.js"></script>
+	<script  type="text/javascript" src="_js/min/script.min.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

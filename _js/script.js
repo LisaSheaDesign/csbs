@@ -1,13 +1,5 @@
 $(document).ready(function () {
-
-  var event = {"show":
-    {
-      "name": "Blues Festival",
-      "band": "Don Ho"
-    }
-
-}
-
+  
   $(function(){
       $('.dropdown').hover(function() {
           $(this).addClass('open');
