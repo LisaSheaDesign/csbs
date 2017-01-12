@@ -122,19 +122,7 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-							<h3>Thanksgiving - closed Thursday November 24th and Friday the 25th</h3>
-              <p>Extended business hours Wednesday November 23rd 9am-9pm</p>
-              <p>Regular business hours Saturday 26th</p>
-							<hr />
-              <h3>Christmas - closing at 5pm on Christmas Eve</h3>
-              <p>Closed Christmas Day</p>
-              <p>Open December 26th at noon</p>
-              <hr />
-              <h3>New Years - closing at 5pm New Years Eve</h3>
-              <p>Closed New Years Day</p>
-              <p>Open at noon on Jan 2nd</p>
-              <hr />
-              <h3>Road Construction on Whitsett Ave</h3>
+							<h3>Road Construction on Whitsett Ave</h3>
 							<p>Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible.
 							<a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a></p>
 							</div>
@@ -142,13 +130,9 @@
 						<article class="col-md-6 padding promo">
 							<h2>Promotion<span>+</span></h2>
 							<div class="promoBox">
-								<h3>Supporting our Local High Schools</h3>
-								<p>10% OFF Local High School Students</p>
-								<hr>
-								<h3>Specials</h3>
-								<p>10% off Retail with every package purchase! Ask front desk about packages that we offer on your next visit.</p>
-								<p>30% off for Senior citizens 65+</p>
-								<p>&quot;Wigs for Kids&quot; Free cut when you donate your hair for a good cause. Must be at least 10 inches</p>
+							<h3>Specials</h3>
+								<p>10% off for Senior citizens 65+</p>
+								<p>&quot;Wigs for Kids&quot; We will cut and donate your hair for a great cause. Must be at least 10 inches long</p>
 							</div>
 						</article> <!-- promo END -->
 					</div> <!-- row END -->
