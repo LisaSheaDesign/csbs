@@ -6,7 +6,7 @@ var requireDir = require('require-dir')('./gulp/tasks');
 gulp.task('watch', function() {
   gulp.watch('_css/main.css', ['cssmin']);
   gulp.watch('_js/script.js', ['jsmin']);
-  gulp.watch('../**/*.hbs', ['handlebars', 'reload']);
+  gulp.watch('../**/*.hbs', ['temps', 'reload']);
 });
 
-gulp.task('build',['jsmin', 'cssmin', 'watch', 'connect']);
+gulp.task('build',['jsmin', 'cssmin', 'watch', 'connect', 'temps']);

@@ -3,27 +3,36 @@ var gulp = require('gulp'),
     handlebars = require('gulp-compile-handlebars');
 
 //handlebars
-gulp.task('handlebars', function() {
-var event = {
-
-  "evt1":
+gulp.task('temps', function() {
+var promoPanels = {
+  "event": [
     {
-      "title": "4th of July - closed Monday July 4th",
+      "title": "MLK - closed Monday July 4th",
       "text": "Please make appointments in advance."
     },
-  "evt2":
     {
-      "title": "Road Construction on Whitsett Ave",
-      "text": 'Prepare to arrive a little earlier than normal due to road construction on Whitsett Ave, driveway into parking lot is still accessible. <a href="*" data-toggle="modal" data-target="#eModal">See map for details.</a>'
+      "title": "4th July",
+      "text": "Lets have some fun"
     }
-  },
+  ],
+  "promo": [
+    {
+      "title": "Specials",
+      "text": "10% off for Senior citizens 65+"
+    },
+    {
+      "title": null,
+      "text": "\"Wigs for Kids\" We will cut and donate your hair for a great cause. Must be at least 10 inches long"
+    }
+  ]
+},
     options = {
     batch:['./src/partials']
   }
 
   var index = function() {
     gulp.src('./src/temps/index.hbs')
-    .pipe(handlebars(event.evt1, options))
+    .pipe(handlebars(promoPanels, options))
     .pipe(rename('index.html'))
     .pipe(gulp.dest('./'));
   }
