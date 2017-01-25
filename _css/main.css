@@ -99,7 +99,7 @@ footer {
 
 .contentWrap.homePage p {width:100%;}
 
-.contentWrap section p {width:85%;}
+.contentWrap section p {width:85%; line-height: 1.25em;}
 
 .contentWrap section > strong, .contentWrap section > p > strong {color:#9D7F81; font-weight:bold;}
 
