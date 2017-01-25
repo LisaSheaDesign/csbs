@@ -4,6 +4,7 @@ var gulp = require('gulp'),
 
 //handlebars
 gulp.task('temps', function() {
+//object for promo panel on index page
 var promoPanels = {
   "event": [
     {
@@ -29,22 +30,21 @@ var promoPanels = {
     options = {
     batch:['./src/partials']
   }
-
+//create index and put promo data on page
   var index = function() {
     gulp.src('./src/temps/index.hbs')
     .pipe(handlebars(promoPanels, options))
     .pipe(rename('index.html'))
     .pipe(gulp.dest('./'));
   }
-
+//create template pages
   var tempPage = function(src, place) {
     gulp.src('./src/temps/' + src + '.hbs')
     .pipe(handlebars(options))
     .pipe(rename('index.html'))
     .pipe(gulp.dest('./' + place));
   }
-
-
+//create template pages put in dest directory
 var init = function() {
   index();
   tempPage('about', 'about-cstyles-barber-spa');
@@ -64,5 +64,4 @@ var init = function() {
   tempPage('shaves', 'barber-spa-shaves');
 }
   return init();
-
 });
