@@ -14,7 +14,7 @@ var promoPanels = {
     {
       "title": null,
       "text": null
-    }
+    },
   ],
   "promo": [
     {
