@@ -76,15 +76,30 @@
 					<li><a class="icon-instagram" href="http://instagram.com/stylesbarberspa" target="_blank"></a></li>
 					<li><a class="icon-yelp" href="http://www.yelp.com/biz/christopher-styles-barber-spa-valley-village-2" target="_blank"></a></li>
 				</ul>
-			
+
 				<ul class="subNav-addLinks">
 					<li><a href="/contact-cstyles-barber-spa/">Now Hiring</a></li>
 					<li><a class="onlineBookBtn" href="http://24.43.71.26:5000/onlinebooking/" target="_blank">Book Online <i class="fa fa-caret-right"></i></a></li>
 				</ul>
 			</div>
 			<div class="contentWrap">
-				<br /><br />
-				<a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View Instagram photos</a>
+				<h2>Instagram Photos</h2>
+				<div class="photoPageGallery clearfix">
+				  <ul id="instafeed" class='instPhotos'></ul>
+				</div>
+				<script src="../_js/min/instafeed.min.js"></script>
+				<script type="text/javascript">
+				    var feed = new Instafeed({
+				      accessToken: '29559735.ba4c844.8d9b4a0de4a54d428aa101ee0ff96c88',
+				        get: 'user',
+				        userId: '29559735',
+				        limit: '20',
+				        template: '<li><a target="_blank" href="{{link}}"><img src="{{image}}" /></a></li>'
+				    });
+						// handlebars removes curly link and curly image tag will hard code in html files
+				    feed.run();
+				</script>
+				<a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View more Instagram photos</a>
 			</div>
 		<div class="push"></div>
 			</div><!-- #wrapper -->
@@ -154,10 +169,10 @@
 </script>
 
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
-	<script  type="text/javascript" src="../_js/script.js"></script>
+	<script  type="text/javascript" src="../_js/min/script.min.js"></script>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="../_js/bootstrap.min.js"></script>
+    <script src="../_js/min/bootstrap.min.js"></script>
 	</body>
 </html>

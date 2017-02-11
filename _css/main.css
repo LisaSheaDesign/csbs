@@ -308,6 +308,12 @@ header .dropdown-menu .divider {
 
 .photoPage img {margin-right:15px; margin-bottom:15px;}
 
+.photoPageGallery  {padding-top: 15px;}
+
+.instPhotos li {float: left; padding: 0 0.83333% .83333%;}
+
+.instPhotos img:hover {border-color: #744248;}
+
 .homePage .carousel-inner img {border:none;}
 
 /* callout */
@@ -420,7 +426,7 @@ header .dropdown-menu .divider {
 
 .instagramBox, .facebookBox, .twitterBox, .promoBox, .callout {background:#231416;}
 
-.instagramBox {padding:15px; margin-bottom:30px; height:340px; overflow:hidden;}
+.instagramBox {padding:15px; margin-bottom:30px; height:340px; overflow-y: auto;}
 
 .facebookBox #facebook {width:460px;}
 
@@ -611,7 +617,7 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 
 	.promoPanels h2 span, .socialWidgets h2 span {display:block;}
 
-	.promoBox, .instagramBox, .twitterBox, .facebookBox {display:none; height:auto; width:100%; margin:0; padding:0 10px; overflow:hidden;}
+	.promoBox, .instagramBox, .twitterBox, .facebookBox {display:none; height: 180px; width:100%; margin:0; padding:10px; overflow-y: auto;}
 
 	.promoPanels h2 span { margin-top:-8px;}
 

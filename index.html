@@ -161,11 +161,11 @@
 						<article class="col-md-6 events">
 						<h2>Events<span>+</span></h2>
 							<div class="promoBox">
-                <!-- 
+                <!--
                   <h3></h3>
 							    <p></p>
                   <hr />
-                
+
                   <h3></h3>
 							    <p></p>
                   <hr />
@@ -189,7 +189,22 @@
 					<div class="row followInstagram">
 					<h2>Follow Us on INSTAGRAM<span>+</span></h2>
 					<article class="instagramBox">
-            <a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View Instagram photos</a>
+            <div class="clearfix">
+    				  <ul id="instafeed" class='instPhotos'></ul>
+    				</div>
+    				<script src="../_js/min/instafeed.min.js"></script>
+    				<script type="text/javascript">
+    				    var feed = new Instafeed({
+    				      accessToken: '29559735.ba4c844.8d9b4a0de4a54d428aa101ee0ff96c88',
+    				        get: 'user',
+    				        userId: '29559735',
+    				        limit: '20',
+    				        template: '<li><a target="_blank" href="{{link}}"><img src="{{image}}" /></a></li>'
+    				    });
+                // handlebars removes curly link and curly image tag will hard code in html files
+    				    feed.run();
+    				</script>
+            <a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View more Instagram photos</a>
           </article> <!-- InstagramBox END -->
 					</div>
 					<div class="row">
@@ -301,6 +316,6 @@
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="_js/bootstrap.min.js"></script>
+    <script src="_js/min/bootstrap.min.js"></script>
 </body>
 </html>
