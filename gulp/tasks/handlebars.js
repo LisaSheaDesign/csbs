@@ -8,8 +8,8 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Closed Monday for Memorial Day",
-      "text": "Business hours resume Tuesday 9am-8pm"
+      "title": "Closed Tuesday, July 4th",
+      "text": "Business hours resume Wednesday 9am-8pm"
     },
   ],
   "promo": [
