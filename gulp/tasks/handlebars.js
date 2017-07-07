@@ -8,8 +8,8 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Closed Sunday July 23th for Staff Appreciation",
-      "text": "Please schedule appointments ahead of time"
+      "title": "Closed Sunday July 23th for Staff Appreciation Day",
+      "text": "Please schedule appointments ahead of time."
     },
   ],
   "promo": [
