@@ -8,8 +8,8 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Closed Sunday July 23th for Staff Appreciation Day",
-      "text": "Please schedule appointments ahead of time."
+      "title": "Spa services now available starting September 5th 2017",
+      "text": "Make your appointment with our new nail tech Nancy when you book your hair cut service."
     },
   ],
   "promo": [
@@ -55,6 +55,7 @@ var init = function() {
   tempPage('news-sanvalley', 'news-cstyles-barber-spa/San-Fernando-Valley-Business-Journal-2015');
   tempPage('news-valley', 'news-cstyles-barber-spa/Best-of-Valley-Village-Award-2014');
   tempPage('packages', 'barber-spa-packages');
+  tempPage('nail-waxing', 'barber-spa-nail-waxing');
   tempPage('photo', 'photos-cstyles-barber-spa');
   tempPage('services', 'barber-spa-services');
   tempPage('shaves', 'barber-spa-shaves');

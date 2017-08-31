@@ -233,7 +233,7 @@ header .dropdown-menu {text-transform:uppercase;}
 header .nav > li > a {
 	color:#E7E7E7;
 	font-size:14px;
-	padding:10px 10px 5px;
+	padding:10px 5px 5px;
 	text-transform:uppercase;
 }
 
@@ -326,9 +326,9 @@ header .dropdown-menu .divider {
 
 .socialLinks li, .subNav-addLinks li {display:inline;}
 
-.subNav-addLinks li {margin-right:10px;}
+.subNav-addLinks li {margin-right:5px;}
 
-.socialLinks li {margin-left:5px;}
+.socialLinks li {margin-left:1px;}
 
 .socialLinks {float:left;}
 
@@ -496,7 +496,7 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 
 	.logoHeader {width:230px;}
 
-	header .nav > li > a {font-size:12px; padding:5px 6px;}
+	header .nav > li > a {font-size:12px; padding:5px 4px;}
 
 	header .nav.navbar-nav.navbar-right > li > a {padding:5px 8px;}
 
