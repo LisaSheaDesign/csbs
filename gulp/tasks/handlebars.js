@@ -8,6 +8,18 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
+      "title": "Closed Thanksgivng Day - Nov. 23",
+      "text": ""
+    },
+    {
+      "title": "Closed Christmas Day - Dec. 25",
+      "text": ""
+    },
+    {
+      "title": "Closed New Years Day - Jan. 1",
+      "text": ""
+    },
+    {
       "title": "Spa services now available starting September 5th 2017",
       "text": "Make your appointment with our new nail tech Nancy when you book your hair cut service."
     },
