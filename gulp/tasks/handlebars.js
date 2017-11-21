@@ -8,7 +8,7 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Closed Thanksgivng Day - Nov. 23",
+      "title": "Closed Thanksgiving Day - Nov. 23",
       "text": ""
     },
     {
