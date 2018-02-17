@@ -8,15 +8,7 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Closed Thanksgiving Day - Nov. 23",
-      "text": ""
-    },
-    {
-      "title": "Closed Christmas Day - Dec. 25",
-      "text": ""
-    },
-    {
-      "title": "Closed New Years Day - Jan. 1",
+      "title": "Closed Easter Sunday - Apr. 1st",
       "text": ""
     },
     {
