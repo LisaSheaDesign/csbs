@@ -8,11 +8,11 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Closed Easter Sunday - Apr. 1st",
-      "text": ""
+      "title": "Closed Monday May 28th for Memorial Day",
+      "text": "Regular business hours resume following day."
     },
     {
-      "title": "Spa services now available starting September 5th 2017",
+      "title": "Spa services now available starting Sept. 5th 2017",
       "text": "Make your appointment with our new nail tech Nancy when you book your hair cut service."
     },
   ],
