@@ -8,14 +8,6 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Closed July 4th",
-      "text": "Regular business hours resume following day."
-    },
-    {
-      "title": "Closed September 3rd for Labor Day",
-      "text": "Regular business hours resume following day."
-    },
-    {
       "title": "Spa services now available starting Sept. 5th 2017",
       "text": "Make your appointment with our new nail tech Nancy when you book your hair cut service."
     },
