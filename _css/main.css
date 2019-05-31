@@ -288,7 +288,7 @@ header .dropdown-menu .divider {
 
 .packagesPage img {border:none; width:100%;}
 
-.contentWrap .servicesPage h1 {margin-bottom:15px;}
+.contentWrap .servicesPage h1, .contentWrap .packagesPage h1 {margin-bottom:15px;}
 
 .castPage .sideImg {width:160px; height:auto;}
 

@@ -8,11 +8,7 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Easter Sunday Closed",
-      "text": ""
-    },
-    {
-      "title": "Memorial Day Closed",
+      "title": "",
       "text": ""
     }
   ],
@@ -63,6 +59,7 @@ var init = function() {
   tempPage('photo', 'photos-cstyles-barber-spa');
   tempPage('services', 'barber-spa-services');
   tempPage('shaves', 'barber-spa-shaves');
+  tempPage('polices', 'barber-spa-polices');
 }
   return init();
 });
