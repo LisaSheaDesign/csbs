@@ -113,8 +113,6 @@ hr {
 	border-top: 1px solid #512E32;
 }
 
-img {border: 2px solid #512E32;}
-
 h1 {padding:10px 0; font-size:50px; text-transform:uppercase; border-bottom:1px solid #744248;}
 
 h2 {border-top:1px solid #744248; border-bottom:1px solid #744248;}
@@ -280,11 +278,13 @@ header .dropdown-menu .divider {
 .packagesPage hr, .servicesPage hr, .cutPage hr,
 .shavesPage hr, .colorPage hr, .manicuresPage hr {border-top:4px double #512E32;}
 
-.castPage img, img.media-object {width:100%; height:auto;}
+.castPage img, img.media-object {width:100%; height:auto; border: 2px solid #512E32;}
 
 .aboutPage .sideImg {width:260px; height:auto;}
 
-.aboutPage .sideImg img { margin-bottom:10px;}
+.aboutPage .sideImg img {margin-bottom:10px;}
+
+.aboutPage img {border: 2px solid #512E32;}
 
 .packagesPage img {border:none; width:100%;}
 
@@ -310,9 +310,13 @@ header .dropdown-menu .divider {
 
 .photoPageGallery  {padding-top: 15px;}
 
+.photoPageGallery img {border: 2px solid #512E32;}
+
 .instPhotos li {float: left; padding: 0 0.83333% .83333%;}
 
 .instPhotos img:hover {border-color: #744248;}
+
+.instPhotos img {border: 2px solid #512E32;}
 
 .homePage .carousel-inner img {border:none;}
 
@@ -376,6 +380,8 @@ header .dropdown-menu .divider {
 .intro {padding:15px 0;}
 
 .intro .row, .socialWidgets .row {margin:0;}
+
+#appointment-widget {background:#fff;}
 
 /* .intro .col-md-4 {width:30%;} */
 

@@ -60,6 +60,7 @@ var init = function() {
   tempPage('services', 'barber-spa-services');
   tempPage('shaves', 'barber-spa-shaves');
   tempPage('polices', 'barber-spa-polices');
+  tempPage('book', 'barber-spa-book');
 }
   return init();
 });
