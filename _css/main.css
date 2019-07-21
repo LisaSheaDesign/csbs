@@ -204,7 +204,7 @@ h3 {color: #9D7F81; font-weight: bold; margin-bottom:15px;}
 
 
 .logoHeader {
-	width:306px;
+	width:40%;
 	height: auto;
 	margin:0 auto -25px;
 }
@@ -290,7 +290,7 @@ header .dropdown-menu .divider {
 
 .contentWrap .servicesPage h1, .contentWrap .packagesPage h1 {margin-bottom:15px;}
 
-.castPage .sideImg {width:160px; height:auto;}
+.castPage .sideImg {width:214px; height:auto;}
 
 .castPage .recept {margin-top:15px;}
 
@@ -390,7 +390,6 @@ header .dropdown-menu .divider {
 	color:#9D7F81;
 	padding:30px;
 	text-align:center;
-	box-shadow: inset 0px 0px 30px #591A11;
 	background: #1F0A0C;
 	line-height:1.25em;
 }
@@ -440,7 +439,7 @@ header .dropdown-menu .divider {
 
 .facebookBox iframe[style], .facebookBox .fb_iframe_widget {width: 430px !important;}
 
-.facebookBox, .twitterBox {padding:15px; height:600px; background:#231416;}
+.facebookBox, .twitterBox {padding:15px; height:650px; background:#231416;}
 
 #twitter-widget-0 {min-height:571px;}
 
@@ -658,7 +657,7 @@ footer a:hover, footer a:active, footer a:focus {color:#C7B3B6; text-decoration:
 
 @media screen and (min-width:1200px) {
 
-	.container {width: 960px;}
+	.container {width: 1100px;}
 
 	.moreBtn, .promoPanels h2 span, .socialWidgets h2 span {display:none;}
 
