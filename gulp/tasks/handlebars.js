@@ -8,8 +8,8 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "",
-      "text": ""
+      "title": "Haircuts for Vets",
+      "text": "Veteran's Day Nov. 11th - 9am to Noon. Call to RSVP."
     }
   ],
   "promo": [
