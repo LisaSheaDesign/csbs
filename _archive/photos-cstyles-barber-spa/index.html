@@ -5,10 +5,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 	<meta name="description" content="Christopher Styles Barber Spa is created to provide the modern gentleman a sanctuary. An oasis where you can come relax, hang out and refine your appearance. Our full service barbershop not only offers expert cuts and fades, but also straight razor face shaves, color services and MAN-icures. When you step into this elegant refuge, you can expect more than just a cut, you can expect to feel and look the way a modern man or woman should.">
-	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City ">
+	<meta name="keywords" content="men barber, women hair, luxury barber, spas for men, kids barber shop, barber shops los angeles, barber spa, salon spa, barbershop, barbershop haircuts, mens haircuts, classic barbershop, face shaves, barbershop Valley Village, barbershop Sherman Oaks, Barbershop Studio City">
 	<meta name="author" content="Christopher Styles Barber Spa">
 	<meta charset="utf-8" />
-	<title>HAIR COLOR - Barber Shop Spa - Cuts, Shaves, Hair Color, &amp; MAN-icures - Christopher Styles Barber Spa</title>
+	<title>PHOTOS - Barber Shop Spa - Cuts, Shaves, Hair Color, &amp; MAN-icures - Christopher Styles Barber Spa</title>
 
 			<!-- Bootstrap -->
     <link href="../_css/min/bootstrap.min.css" rel="stylesheet">
@@ -25,6 +25,7 @@
 	</head>
 	<body>
 		<div id="wrapper" class="container">
+
 			<header>
 			    <div class="navbar-header">
 			        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
@@ -83,29 +84,24 @@
 				</ul>
 			</div>
 			<div class="contentWrap">
-				<section class="colorPage">
-					<h1>Hair Color</h1>
-					<div class="callout">
-					<p>All prices are determined by each individual stylist. Prices may vary depending on your stylist experience.</p>
-					<p>Our expert colorists are here to provide you with a new look or just to update your look. Times may vary depending on color application and process time. Color consultation is highly recommended. We use Pravana color line. Pravana is a quality, professional line which provides various colors that range from subtle changes to vibrant colors. Our expert colorists have been trained and are here to help you find the ideal look for you.</p>
-					</div>
-					<p><a href="/barber-spa-polices/">New polices effective June 1st 2019</a></p>
-					<hr />
-					<p>Color consultation is required for color services including highlights.</p>
-					<h3>All Over</span></h3>
-					<h3>Each extra ounce of color used</h3>
-					<h3>Partial highlights</h3>
-					<h3>Full highlights</h3>
-					<h3>Root touch-up</h3>
-					<h3>Balayage</h3>
-					<h3>Color Correction</h3>
-					<h3>Men's Gray Coverage</h3>
-					<hr />
-					<p>Call the shop to ask about other services we offer such as color/highlights, blowdrys, and hair designs that are not available through Online Booking.
-					Go to <a href="/barber-spa-services/">All Services</a> page for the complete pricing list.</p>
-
-				</section>
-		</div><!-- #contentWrap -->
+				<h2>Instagram Photos</h2>
+				<div class="photoPageGallery clearfix">
+				  <ul id="instafeed" class='instPhotos'></ul>
+				</div>
+				<script src="../_js/min/instafeed.min.js"></script>
+				<script type="text/javascript">
+				    var feed = new Instafeed({
+				      accessToken: '29559735.1677ed0.35fa3d10c6f849d987e746a32cf8e255',
+				        get: 'user',
+				        userId: '29559735',
+				        limit: '20',
+				        template: '<li><a target="_blank" href="{{link}}"><img src="{{image}}" /></a></li>'
+				    });
+						// handlebars removes curly link and curly image tag will hard code in html files
+				    feed.run();
+				</script>
+				<a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View more Instagram photos</a>
+			</div>
 		<div class="push"></div>
 			</div><!-- #wrapper -->
 			<footer>
@@ -156,8 +152,10 @@
 			  	</div>
 			  </div>
 			</footer>
+
 <!-- Script -->
-	<script type="text/javascript">
+
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-37164123-1']);

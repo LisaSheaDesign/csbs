@@ -11,7 +11,8 @@
 	<title>PHOTOS - Barber Shop Spa - Cuts, Shaves, Hair Color, &amp; MAN-icures - Christopher Styles Barber Spa</title>
 
 			<!-- Bootstrap -->
-    <link href="../_css/min/bootstrap.min.css" rel="stylesheet">
+			 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"> -->
+		 <link href="../_css/min/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -20,12 +21,12 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     <!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
-	<link type="text/css" href="../_css/min/main.min.css" rel="stylesheet" />
+		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
+		<link type="text/css" href="../_css/min/main.min.css" rel="stylesheet" />
 	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-	</head>
+</head>
 	<body>
 		<div id="wrapper" class="container">
-
 			<header>
 			    <div class="navbar-header">
 			        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
@@ -84,24 +85,26 @@
 				</ul>
 			</div>
 			<div class="contentWrap">
-				<h2>Instagram Photos</h2>
-				<div class="photoPageGallery clearfix">
-				  <ul id="instafeed" class='instPhotos'></ul>
+				<h2>Photos by Innis Casey Photography</h2>
+				<div class="photo-gallery">
+	          <div class="row photos">
+	                <div class="col-sm-4"><a href="/_img/cs-photo-6867.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-6867.jpg"></a></div>
+	                <div class="col-sm-4"><a href="/_img/cs-photo-6945.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-6945.jpg"></a></div>
+	                <div class="col-sm-4"><a href="/_img/cs-photo-7023.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7023.jpg"></a></div>
+	                <div class="col-sm-4"><a href="/_img/cs-photo-7068.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7068.jpg"></a></div>
+	                <div class="col-sm-4"><a href="/_img/cs-photo-7080.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7080.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7209.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7209.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7254.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7254.jpg"></a></div>
+							  	<div class="col-sm-4"><a href="/_img/cs-photo-7284.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7284.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7288.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7288.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7346.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7346.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7380.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7380.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7512.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7512.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7557.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7557.jpg"></a></div>
+									<div class="col-sm-4"><a href="/_img/cs-photo-7657.jpg" data-lightbox="photos"><img class="img-fluid" src="/_img/cs-photo-7657.jpg"></a></div>
+							</div>
+				   </div>
 				</div>
-				<script src="../_js/min/instafeed.min.js"></script>
-				<script type="text/javascript">
-				    var feed = new Instafeed({
-				      accessToken: '29559735.1677ed0.35fa3d10c6f849d987e746a32cf8e255',
-				        get: 'user',
-				        userId: '29559735',
-				        limit: '20',
-				        template: '<li><a target="_blank" href="{{link}}"><img src="{{image}}" /></a></li>'
-				    });
-						// handlebars removes curly link and curly image tag will hard code in html files
-				    feed.run();
-				</script>
-				<a target="_blank" href="https://www.instagram.com/stylesbarberspa/">View more Instagram photos</a>
-			</div>
 		<div class="push"></div>
 			</div><!-- #wrapper -->
 			<footer>
@@ -156,17 +159,9 @@
 <!-- Script -->
 
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-37164123-1']);
   _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
 </script>
 
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
@@ -175,5 +170,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="../_js/min/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
 	</body>
 </html>

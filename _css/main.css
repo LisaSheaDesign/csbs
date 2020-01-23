@@ -288,7 +288,7 @@ header .dropdown-menu .divider {
 
 .packagesPage img {border:none; width:100%;}
 
-.contentWrap .servicesPage h1, .contentWrap .packagesPage h1 {margin-bottom:15px;}
+/* .contentWrap .servicesPage h1, .contentWrap .packagesPage h1 {margin-bottom:15px;} */
 
 .castPage .sideImg {width:214px; height:auto;}
 
@@ -319,6 +319,10 @@ header .dropdown-menu .divider {
 .instPhotos img {border: 2px solid #512E32;}
 
 .homePage .carousel-inner img {border:none;}
+
+.photo-gallery {margin-top: 20px;}
+
+.photo-gallery .img-fluid {max-width: 100%; height: auto; margin-bottom: 30px; border: 2px solid #512E32;}
 
 /* callout */
 

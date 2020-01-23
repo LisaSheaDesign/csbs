@@ -8,18 +8,18 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Haircuts for Vets",
-      "text": "Veteran's Day Nov. 11th - 9am to Noon. Call to RSVP."
+      "title": "Stay Tuned",
+      "text": null,
     }
   ],
   "promo": [
     {
-      "title": "Specials",
-      "text": "10% off for Senior citizens 65+"
+      "title": null,
+      "text": "All prices are determined by each individual stylist. Prices may vary depending on your stylist experience. "
     },
     {
       "title": null,
-      "text": "\"Wigs for Kids\" We will cut and donate your hair for a great cause. Must be at least 10 inches long"
+      "text": null
     }
   ]
 },
