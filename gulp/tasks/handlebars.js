@@ -8,7 +8,7 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Stay Tuned",
+      "title": "Now Open: COVID-19",
       "text": null,
     }
   ],
