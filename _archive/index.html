@@ -167,6 +167,18 @@
             <div class="clearfix">
     				  <ul id="instafeed" class='instPhotos'></ul>
     				</div>
+    				<script src="../_js/min/instafeed.min.js"></script>
+    				<script type="text/javascript">
+    				    var feed = new Instafeed({
+    				      accessToken: '29559735.1677ed0.35fa3d10c6f849d987e746a32cf8e255',
+    				        get: 'user',
+    				        userId: '29559735',
+    				        limit: '20',
+    				        template: '<li><a target="_blank" href="{{link}}"><img src="{{image}}" /></a></li>'
+    				    });
+                // handlebars removes curly link and curly image tag will hard code in html files
+    				    feed.run();
+    				</script>
             <a target="_blank" href="https://www.instagram.com/c.stylesbarberspa/">View more Instagram photos</a>
           </article> <!-- InstagramBox END -->
 					</div>

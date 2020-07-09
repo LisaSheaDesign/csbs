@@ -435,7 +435,7 @@ header .dropdown-menu .divider {
 
 .instagramBox, .facebookBox, .twitterBox, .promoBox, .callout {background:#231416;}
 
-.instagramBox {padding:15px; margin-bottom:30px; height:340px; overflow-y: auto;}
+.instagramBox {padding:15px; margin-bottom:30px; height:50px; overflow-y: auto;}
 
 .facebookBox #facebook {width:460px;}
 
