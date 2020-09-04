@@ -8,7 +8,7 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Now Open: COVID-19",
+      "title": "Barber Spa CLOSED: COVID-19",
       "text": null,
     }
   ],
