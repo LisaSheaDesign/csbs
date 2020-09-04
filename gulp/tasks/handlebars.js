@@ -8,11 +8,15 @@ gulp.task('temps', function() {
 var promoPanels = {
   "event": [
     {
-      "title": "Barber Spa CLOSED: COVID-19",
+      "title": "Barber Spa OPEN at 25% capacity",
       "text": null,
     }
   ],
   "promo": [
+    {
+      "title": null,
+      "text": "As of September 3rd Christopher Styles Barber Spa will reopen its doors at a 25% capacity. We will continue to serve our clients but stylist and barbers will have limited schedules. Please give us a call and we will contact stylist for availability. Thank you again for your patience and understanding during this process of reopening. We want to ensure our stylist safety as well as yours so all county and state guild lines with be strictly followed."
+    },
     {
       "title": null,
       "text": "All prices are determined by each individual stylist. Prices may vary depending on your stylist experience. "
